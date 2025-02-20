@@ -2503,7 +2503,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_brigandine02_m01</Cell>
-		<Cell>Bandit&#39;s brigandine</Cell>
+		<Cell>Bandit's brigandine</Cell>
 		<Cell>Körper I - Banditenbrigantine</Cell>
 	</Row>
 	<Row>
@@ -2564,7 +2564,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_cuirass08_m01_Brunswig</Cell>
-		<Cell>Brunswick&#39;s brigandine</Cell>
+		<Cell>Brunswick's brigandine</Cell>
 		<Cell>Körper I - Brigantine des Brunswiek</Cell>
 	</Row>
 
@@ -2592,7 +2592,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_coat03_m01</Cell>
-		<Cell>Beggar&#39;s coat</Cell>
+		<Cell>Beggar's coat</Cell>
 		<Cell>Körper II - Bettlermantel</Cell>
 	</Row>
 	<Row>
@@ -2607,7 +2607,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_coat04_m02_prague</Cell>
-		<Cell>Ordinary Praguers&#39; coat with crest</Cell>
+		<Cell>Ordinary Praguers' coat with crest</Cell>
 		<Cell>Körper II - Gewöhnlicher Prager Mantel mit Emblem</Cell>
 	</Row>
 	<Row>
@@ -2617,7 +2617,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_coat06_m01</Cell>
-		<Cell>Jester&#39;s disguise</Cell>
+		<Cell>Jester's disguise</Cell>
 		<Cell>Körper II - Narrenverkleidung</Cell>
 	</Row>
 	<Row>
@@ -2632,7 +2632,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_coat10_m01</Cell>
-		<Cell>Wanderer&#39;s robe</Cell>
+		<Cell>Wanderer's robe</Cell>
 		<Cell>Körper II - Mantel des Wanderers</Cell>
 	</Row>
 	<Row>
@@ -2647,7 +2647,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_coat12_m01</Cell>
-		<Cell>Merchant&#39;s coat</Cell>
+		<Cell>Merchant's coat</Cell>
 		<Cell>Körper II - Händlermantel</Cell>
 	</Row>
 	<Row>
@@ -2657,7 +2657,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_coat_huntsman</Cell>
-		<Cell>Nimrod&#39;s coat</Cell>
+		<Cell>Nimrod's coat</Cell>
 		<Cell>Körper II - Nimrods Mantel</Cell>
 	</Row>
 
@@ -2675,7 +2675,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_waffenrock01_m01_prague</Cell>
-		<Cell>Praguers&#39; hemmed waffenrock</Cell>
+		<Cell>Praguers' hemmed waffenrock</Cell>
 		<Cell>Körper II - Gesäumter Prager Wappenrock</Cell>
 	</Row>
 	<Row>
@@ -2690,7 +2690,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_waffenrock03_m01_prague</Cell>
-		<Cell>Praguers&#39; waffenrock with buttons</Cell>
+		<Cell>Praguers' waffenrock with buttons</Cell>
 		<Cell>Körper II - Prager Wappenrock mit Knöpfen</Cell>
 	</Row>
 	<Row>
@@ -2705,7 +2705,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_waffenrock08_m01_prague</Cell>
-		<Cell>Praguers&#39; riding waffenrock</Cell>
+		<Cell>Praguers' riding waffenrock</Cell>
 		<Cell>Körper II - Prager Reitwappenrock</Cell>
 	</Row>
 	<Row>
@@ -2715,7 +2715,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_waffenrock09_m01</Cell>
-		<Cell>Knight&#39;s waffenrock</Cell>
+		<Cell>Knight's waffenrock</Cell>
 		<Cell>Körper II - Ritterwappenrock</Cell>
 	</Row>
 	<Row>
@@ -2814,7 +2814,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_gambesonlong01_mdrowner</Cell>
-		<Cell>Drowner&#39;s gambeson</Cell>
+		<Cell>Drowner's gambeson</Cell>
 		<Cell>Körper III - Gambeson eines Ertrunkenen</Cell>
 	</Row>
 	<Row>
@@ -2824,12 +2824,12 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_gambesonlong03_merik</Cell>
-		<Cell>Erik&#39;s pourpoint</Cell>
+		<Cell>Erik's pourpoint</Cell>
 		<Cell>Körper III - Eriks Pourpoint</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_gambesonlong03_twitch</Cell>
-		<Cell>Cutpurse&#39;s pourpoint</Cell>
+		<Cell>Cutpurse's pourpoint</Cell>
 		<Cell>Körper III - Pourpoint des Taschendiebs</Cell>
 	</Row>
 	<Row>
@@ -2844,7 +2844,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_gambesonlongcapon_m01</Cell>
-		<Cell>Capon&#39;s gambeson</Cell>
+		<Cell>Capon's gambeson</Cell>
 		<Cell>Körper III - Capons Gambeson</Cell>
 	</Row>
 	<Row>
@@ -2960,7 +2960,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_tunicshort03_m01</Cell>
-		<Cell>Miner&#39;s tunic</Cell>
+		<Cell>Miner's tunic</Cell>
 		<Cell>Körper III - Bergmanntunika</Cell>
 	</Row>
 	<Row>
@@ -2980,12 +2980,12 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_tunicshort06_m01</Cell>
-		<Cell>Innkeeper&#39;s shirt</Cell>
+		<Cell>Innkeeper's shirt</Cell>
 		<Cell>Körper III - Leinenschürze</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_tunicshort07_m01</Cell>
-		<Cell>Beggar&#39;s shirt</Cell>
+		<Cell>Beggar's shirt</Cell>
 		<Cell>Körper III - Bettlerhemd</Cell>
 	</Row>
 	<Row>
@@ -2995,7 +2995,7 @@
 	</Row>
 	<Row>
 		<Cell>ui_nm_tunicshortlegate_m01</Cell>
-		<Cell>Legate&#39;s tunic</Cell>
+		<Cell>Legate's tunic</Cell>
 		<Cell>Körper III - Tunika des Legaten</Cell>
 	</Row>
 
@@ -3028,6 +3028,206 @@
 	</Row>
 
 
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Armee 				                                       -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+    
 
+	<Row>
+		<Cell>ui_nm_armplate01_m01</Cell>
+		<Cell>Couters with rondel</Cell>
+		<Cell>Arme II - Ellbogenkacheln mit Stahlscheiben</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate02_m01</Cell>
+		<Cell>Plate knight gauntlets</Cell>
+		<Cell>Arme II - Ritterarmschienen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate03_m01</Cell>
+		<Cell>Couters</Cell>
+		<Cell>Arme II - Ellbogenkacheln</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate04_m01</Cell>
+		<Cell>Nuremberg plate gauntlets</Cell>
+		<Cell>Arme II - Nürnberger Armschienen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate05_m01</Cell>
+		<Cell>Magdeburg plate arms</Cell>
+		<Cell>Arme II - Magdeburger Armschienen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate05_m01_Brunswig</Cell>
+		<Cell>Brunswick's plate sleeves</Cell>
+		<Cell>Arme II - Armplatten des Brunswiek</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm01_m01</Cell>
+		<Cell>Plain laminar gauntlets</Cell>
+		<Cell>Arme II - Einfache Brigantinen-Schulterplatten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm02_m01</Cell>
+		<Cell>Laminar hands with rondels</Cell>
+		<Cell>Arme II - Gliederpanzerhandschuhe mit Stahlscheiben</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm03_m01</Cell>
+		<Cell>Reinforced tempered gauntlets</Cell>
+		<Cell>Arme II - Verstärkte, gehärtete Panzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm05_m01</Cell>
+		<Cell>Silesian brigandine sleeves</Cell>
+		<Cell>Arme II - Schlesische Brigantinen-Armschützer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm06_m01</Cell>
+		<Cell>Noble laminar hands</Cell>
+		<Cell>Arme II - Edle Gliederpanzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm_twitch</Cell>
+		<Cell>Warhorse brigandine sleeves</Cell>
+		<Cell>Arme II - Schlachtrossarmplatten</Cell>
+	</Row>
+
+	<Row>
+		<Cell>ui_nm_gauntlets01_m01</Cell>
+		<Cell>Hourglass gauntlets</Cell>
+		<Cell>Arme I - Sanduhrhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gauntlets02_m01</Cell>
+		<Cell>Milanese gauntlets</Cell>
+		<Cell>Arme I - Mailänder Panzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_Gauntlets02_m01_B3_khTournament_Henry</Cell>
+		<Cell>Tournament gauntlets</Cell>
+		<Cell>Arme I - Turnierpanzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gauntlets03_m01</Cell>
+		<Cell>Chainmail gauntlets</Cell>
+		<Cell>Arme I - Kettenhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gauntlets04_m01</Cell>
+		<Cell>Noble's gauntlets</Cell>
+		<Cell>Arme I - Edle Panzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gauntlets05_m01</Cell>
+		<Cell>Nuremberg gauntlets</Cell>
+		<Cell>Arme I - Nürnberger Panzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gauntlets08_m01</Cell>
+		<Cell>Brigandine gauntlets</Cell>
+		<Cell>Arme I - Brigantinenhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gauntlets08_m01_Brunswig</Cell>
+		<Cell>Brunswick's gauntlets</Cell>
+		<Cell>Arme I - Plattenhandschuhe des Brunswiek</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gauntlets_twitch</Cell>
+		<Cell>Warhorse gauntlets</Cell>
+		<Cell>Arme I - Schlachtrosspanzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gloves01_m01</Cell>
+		<Cell>Leather gloves</Cell>
+		<Cell>Arme I - Lederhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gloves02_m01</Cell>
+		<Cell>Mitts</Cell>
+		<Cell>Arme I - Fäustlinge</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gloves02_mdrowner</Cell>
+		<Cell>Drowned man's gloves</Cell>
+		<Cell>Arme I - Handschuhe eines Ertrunkenen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gloves05_m01</Cell>
+		<Cell>Riding gloves</Cell>
+		<Cell>Arme I - Reithandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gloves06_m01</Cell>
+		<Cell>Noble gloves</Cell>
+		<Cell>Arme I - Edle Handschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gloves06_mlegate</Cell>
+		<Cell>Legate's gloves</Cell>
+		<Cell>Arme I - Handschuhe des Legaten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gloves_huntsman</Cell>
+		<Cell>Master huntsman's gloves</Cell>
+		<Cell>Arme I - Handschuhe des Jägermeisters</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gloves_twitch</Cell>
+		<Cell>Cutpurse's gloves</Cell>
+		<Cell>Arme I - Handschuhe des Taschendiebs</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_handwrap</Cell>
+		<Cell>Hand wrap</Cell>
+		<Cell>Arme I - Bandage</Cell>
+	</Row>
+
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- gürtel				                                       -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+    
+
+	<Row>
+		<Cell>ui_nm_belt_2slot</Cell>
+		<Cell>Hunter's belt</Cell>
+		<Cell>Gürtel - Jagdgürtel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_belt_3slot</Cell>
+		<Cell>Knight's belt</Cell>
+		<Cell>Gürtel - Rittergürtel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_belt_4slot</Cell>
+		<Cell>Noble's belt</Cell>
+		<Cell>Gürtel - Edler Gürtel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_pouch_1slot</Cell>
+		<Cell>Wanderer's pouch</Cell>
+		<Cell>Beutel - Beutel des Wanderers</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_pouch_2slot</Cell>
+		<Cell>Hunter's pouch</Cell>
+		<Cell>Beutel - Jägerbeutel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_pouch_3slot</Cell>
+		<Cell>Knight's pouch</Cell>
+		<Cell>Beutel - Ritterbeutel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_pouch_4slot</Cell>
+		<Cell>Noble's pouch</Cell>
+		<Cell>Beutel - Edler Beutel</Cell>
+	</Row>
 
 </Table>
