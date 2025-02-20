@@ -2490,6 +2490,544 @@
 		<Cell>Kopf IV - Gugel des Taschendiebs</Cell>
 	</Row>
 
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Körper I - Platte Brigantine 				               -->
+    <!--                                                           -->
+    <!-- ========================================================= -->	
+
+	<Row>
+		<Cell>ui_nm_brigandine01_m01</Cell>
+		<Cell>Simple brigandine</Cell>
+		<Cell>Körper I - Einfache Brigantine</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandine02_m01</Cell>
+		<Cell>Bandit&#39;s brigandine</Cell>
+		<Cell>Körper I - Banditenbrigantine</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandine03_m01</Cell>
+		<Cell>Saxon brigandine</Cell>
+		<Cell>Körper I - Sächsische Brigantine</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandine05_m01</Cell>
+		<Cell>Milanese brigandine</Cell>
+		<Cell>Körper I - Mailänder Brigantine</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandine10_m01</Cell>
+		<Cell>Cuirass with falds</Cell>
+		<Cell>Körper I - Kürass mit Panzerschurz</Cell>
+	</Row>
+
+	<Row>
+		<Cell>ui_nm_cuirass01_m01</Cell>
+		<Cell>Smooth cuirass</Cell>
+		<Cell>Körper I - Glatter Kürass</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuirass02_m01</Cell>
+		<Cell>Magdeburg cuirass</Cell>
+		<Cell>Körper I - Magdeburger Kürass</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuirass03_m01</Cell>
+		<Cell>Milanese cuirass</Cell>
+		<Cell>Körper I - Mailänder Kürass</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuirass04_m01</Cell>
+		<Cell>Mended cuirass</Cell>
+		<Cell>Körper I - Geflickter Kürass</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuirass05_m01</Cell>
+		<Cell>Riding cuirass</Cell>
+		<Cell>Körper I - Reiterkürass</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuirass06_m01</Cell>
+		<Cell>Rusted plate</Cell>
+		<Cell>Körper I - Rostiger Plattenpanzer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuirass07_m01</Cell>
+		<Cell>Noble cuirass</Cell>
+		<Cell>Körper I - Edler Kürass</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuirass08_m01</Cell>
+		<Cell>Kastenbrust</Cell>
+		<Cell>Körper I - Kastenbrust</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuirass08_m01_Brunswig</Cell>
+		<Cell>Brunswick&#39;s brigandine</Cell>
+		<Cell>Körper I - Brigantine des Brunswiek</Cell>
+	</Row>
+
+	<!-- ========================================================= -->
+	<!--                                                           -->
+	<!-- Körper II - Mantel   -> muss 2                                    -->
+	<!--                                                           -->
+	<!-- ========================================================= -->
+	
+
+	<Row>
+		<Cell>ui_nm_coat01_m01</Cell>
+		<Cell>Burgher coat</Cell>
+		<Cell>Körper II - Bürgergewand</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat02_m01</Cell>
+		<Cell>Ordinary coat</Cell>
+		<Cell>Körper II - Gewöhnlicher Mantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat02_m02</Cell>
+		<Cell>Coat of arms surcoat</Cell>
+		<Cell>Körper II - Cotehardie mit Wappen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat03_m01</Cell>
+		<Cell>Beggar&#39;s coat</Cell>
+		<Cell>Körper II - Bettlermantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat04_m01</Cell>
+		<Cell>Ordinary coat</Cell>
+		<Cell>Körper II - Gewöhnlicher Mantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat04_m02</Cell>
+		<Cell>Ordinary coat with crest</Cell>
+		<Cell>Körper II - Gewöhnlicher Mantel mit Wappen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat04_m02_prague</Cell>
+		<Cell>Ordinary Praguers&#39; coat with crest</Cell>
+		<Cell>Körper II - Gewöhnlicher Prager Mantel mit Emblem</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat05_m01</Cell>
+		<Cell>Hunting coat</Cell>
+		<Cell>Körper II - Jagdmantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat06_m01</Cell>
+		<Cell>Jester&#39;s disguise</Cell>
+		<Cell>Körper II - Narrenverkleidung</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat07_m01</Cell>
+		<Cell>Quilted coat</Cell>
+		<Cell>Körper II - Steppmantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat08_m01</Cell>
+		<Cell>Fitted coat</Cell>
+		<Cell>Körper II - Enganliegender Mantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat10_m01</Cell>
+		<Cell>Wanderer&#39;s robe</Cell>
+		<Cell>Körper II - Mantel des Wanderers</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat11_m01</Cell>
+		<Cell>Embroidered coat</Cell>
+		<Cell>Körper II - Bestickter Mantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat11_m02</Cell>
+		<Cell>Embroidered heater coat</Cell>
+		<Cell>Körper II - Bestickter Wappenmantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat12_m01</Cell>
+		<Cell>Merchant&#39;s coat</Cell>
+		<Cell>Körper II - Händlermantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat13_m01</Cell>
+		<Cell>Gallant coat</Cell>
+		<Cell>Körper II - Galanter Mantel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coat_huntsman</Cell>
+		<Cell>Nimrod&#39;s coat</Cell>
+		<Cell>Körper II - Nimrods Mantel</Cell>
+	</Row>
+
+
+	<!-- ========================================================= -->
+	<!--                                                           -->
+	<!-- Körper II - Waffenrocks                                  -->
+	<!--                                      	                   -->
+	<!-- ========================================================= -->
+		
+	<Row>
+		<Cell>ui_nm_waffenrock01_m01</Cell>
+		<Cell>Hemmed waffenrock</Cell>
+		<Cell>Körper II - Gesäumter Wappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock01_m01_prague</Cell>
+		<Cell>Praguers&#39; hemmed waffenrock</Cell>
+		<Cell>Körper II - Gesäumter Prager Wappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock02_m01</Cell>
+		<Cell>Simple waffenrock</Cell>
+		<Cell>Körper II - Einfacher Wappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock03_m01</Cell>
+		<Cell>Fastened waffenrock</Cell>
+		<Cell>Körper II - Geknöpfter Wappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock03_m01_prague</Cell>
+		<Cell>Praguers&#39; waffenrock with buttons</Cell>
+		<Cell>Körper II - Prager Wappenrock mit Knöpfen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock04_m01</Cell>
+		<Cell>Ornate waffenrock</Cell>
+		<Cell>Körper II - Verzierter Wappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock08_m01</Cell>
+		<Cell>Riding waffenrock</Cell>
+		<Cell>Körper II - Reitwappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock08_m01_prague</Cell>
+		<Cell>Praguers&#39; riding waffenrock</Cell>
+		<Cell>Körper II - Prager Reitwappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_Waffenrock08_mkhTournament_05_B_Henry</Cell>
+		<Cell>Tournament waffenrock</Cell>
+		<Cell>Körper II - Turnierwappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock09_m01</Cell>
+		<Cell>Knight&#39;s waffenrock</Cell>
+		<Cell>Körper II - Ritterwappenrock</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock_polner</Cell>
+		<Cell>House of Polner waffenrock</Cell>
+		<Cell>Körper II - Waffenrock des Hauses Polner</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock_redStar</Cell>
+		<Cell>Crusaders of the Red Star waffenrock</Cell>
+		<Cell>Körper II - Wappenrock der Kreuzherren mit dem Roten Stern</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_waffenrock_twitch</Cell>
+		<Cell>Warhorse waffenrock</Cell>
+		<Cell>Körper II - Schlachtrosswappenrock</Cell>
+	</Row>
+
+
+	<!-- ========================================================= -->
+	<!--                                                           -->
+	<!-- Körper III - Gambeson, Aketons, Caftans                    -->
+	<!--                                                           -->
+	<!-- ========================================================= -->
+	
+
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m01</Cell>
+		<Cell>Long gambeson</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_GambesonLong01_m01_C3_KHtournament_Henry</Cell>
+		<Cell>Tournament gambeson</Cell>
+		<Cell>Körper III - Turniergambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m02</Cell>
+		<Cell>Gambeson long</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m03</Cell>
+		<Cell>Gambeson long</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m04</Cell>
+		<Cell>Gambeson long</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m05</Cell>
+		<Cell>Gambeson long</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m06</Cell>
+		<Cell>Long gambeson</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m07</Cell>
+		<Cell>Gambeson long</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m08</Cell>
+		<Cell>Gambeson long</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m09</Cell>
+		<Cell>Long gambeson</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m10</Cell>
+		<Cell>Long gambeson</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m11</Cell>
+		<Cell>Long gambeson</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m12</Cell>
+		<Cell>Gambeson long</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_m13</Cell>
+		<Cell>Gambeson long</Cell>
+		<Cell>Körper III - Langer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong01_mdrowner</Cell>
+		<Cell>Drowner&#39;s gambeson</Cell>
+		<Cell>Körper III - Gambeson eines Ertrunkenen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong03_m01</Cell>
+		<Cell>Long pourpoint</Cell>
+		<Cell>Körper III - Langer Pourpoint</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong03_merik</Cell>
+		<Cell>Erik&#39;s pourpoint</Cell>
+		<Cell>Körper III - Eriks Pourpoint</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong03_twitch</Cell>
+		<Cell>Cutpurse&#39;s pourpoint</Cell>
+		<Cell>Körper III - Pourpoint des Taschendiebs</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong04_m01</Cell>
+		<Cell>Noble gambeson</Cell>
+		<Cell>Körper III - Edler Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlong04_twitch</Cell>
+		<Cell>Warhorse pourpoint</Cell>
+		<Cell>Körper III - Schlachtrosspourpoint</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlongcapon_m01</Cell>
+		<Cell>Capon&#39;s gambeson</Cell>
+		<Cell>Körper III - Capons Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonlonggodwin_m01</Cell>
+		<Cell>Old gambeson</Cell>
+		<Cell>Körper III - Alter Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m01</Cell>
+		<Cell>Short gambeson</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m02</Cell>
+		<Cell>Gambeson short</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m03</Cell>
+		<Cell>Gambeson short</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m04</Cell>
+		<Cell>Short gambeson</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m05_C</Cell>
+		<Cell>Short gambeson</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m06_C</Cell>
+		<Cell>Gambeson short</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m07_C</Cell>
+		<Cell>Short gambeson</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m08_C</Cell>
+		<Cell>Gambeson short</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m09</Cell>
+		<Cell>Gambeson short</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort01_m10_C</Cell>
+		<Cell>Gambeson short</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort02_m01</Cell>
+		<Cell>Gambeson worn</Cell>
+		<Cell>Körper III - Abgenutzter Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort02_m02</Cell>
+		<Cell>Worn gambeson</Cell>
+		<Cell>Körper III - Abgetragener Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort02_m03</Cell>
+		<Cell>Worn gambeson</Cell>
+		<Cell>Körper III - Abgetragener Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort03_m01</Cell>
+		<Cell>Short pourpoint</Cell>
+		<Cell>Körper III - Kurze Pourpoint</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort04_m01</Cell>
+		<Cell>Aketon short</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort04_m02</Cell>
+		<Cell>Aketon short</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort04_m03</Cell>
+		<Cell>Short aketon</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_gambesonshort04_m04</Cell>
+		<Cell>Short aketon</Cell>
+		<Cell>Körper III - Kurzer Gambeson</Cell>
+	</Row>
+
+	<Row>
+		<Cell>ui_nm_tuniclong04_m01</Cell>
+		<Cell>Worn tunic</Cell>
+		<Cell>Körper III - Abgetragene Tunika</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tuniclong05_m01</Cell>
+		<Cell>Beggar tunic</Cell>
+		<Cell>Körper III - Bettlertunika</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshort01_m01</Cell>
+		<Cell>Short tunic</Cell>
+		<Cell>Körper III - Kurze Tunika</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshort03_m01</Cell>
+		<Cell>Miner&#39;s tunic</Cell>
+		<Cell>Körper III - Bergmanntunika</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshort04_m01</Cell>
+		<Cell>Burgher pourpoint</Cell>
+		<Cell>Körper III - Bürgerpourpoint</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshort05_m01</Cell>
+		<Cell>Leather apron</Cell>
+		<Cell>Körper III - Lederschürze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshort05_m02</Cell>
+		<Cell>Short butcher apron</Cell>
+		<Cell>Körper III - Kurze Metzgerschürze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshort06_m01</Cell>
+		<Cell>Innkeeper&#39;s shirt</Cell>
+		<Cell>Körper III - Leinenschürze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshort07_m01</Cell>
+		<Cell>Beggar&#39;s shirt</Cell>
+		<Cell>Körper III - Bettlerhemd</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshort08_m01</Cell>
+		<Cell>Embroidered shirt</Cell>
+		<Cell>Körper III - Besticktes Hemd</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tunicshortlegate_m01</Cell>
+		<Cell>Legate&#39;s tunic</Cell>
+		<Cell>Körper III - Tunika des Legaten</Cell>
+	</Row>
+
+
+	<!-- ========================================================= -->
+	<!--                                                           -->
+	<!-- Körper IV - Kettenhemd                                    -->
+	<!--                                                           -->
+	<!-- ========================================================= -->
+	
+	<Row>
+		<Cell>ui_nm_maillong01_m01</Cell>
+		<Cell>Hauberk long</Cell>
+		<Cell>Körper IV - Langes Kettenhemd</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_maillong02_m01</Cell>
+		<Cell>Saxon Hauberk</Cell>
+		<Cell>Körper IV - Sächsisches Kettenhemd</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mailshort01_m01</Cell>
+		<Cell>Short chainmail</Cell>
+		<Cell>Körper IV - Kurzes Kettenhemd</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mailshort02_m01</Cell>
+		<Cell>Italian hauberk</Cell>
+		<Cell>Körper IV - Italienisches Kettenhemd</Cell>
+	</Row>
+
+
 
 
 </Table>
