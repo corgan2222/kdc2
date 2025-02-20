@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+    <info>
+        <name>Sorted Inventory Deutsch</name>
+        <description>Sorted Inventory Deutsch (PTF)</description>
+        <modid>sort_inv_ger_ptf</modid>
+        <author>Schlaubi</author>
+        <version>0.7.1</version>
+        <created_on>2025-02-18</created_on>
+    </info>
+</kcd_mod>

@@ -1,0 +1,1907 @@
+<Table>
+	<!-- ######################### -->
+	<!-- ##       Tränke        ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_potion_aesop</Cell>
+		<Cell>Weak Aesop</Cell>
+		<Cell>Elixier des Äsop I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_aesop_medium</Cell>
+		<Cell>Aesop</Cell>
+		<Cell>Elixier des Äsop II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_aesop_high</Cell>
+		<Cell>Strong Aesop</Cell>
+		<Cell>Elixier des Äsop III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_aesop_best</Cell>
+		<Cell>Henry's Aesop</Cell>
+		<Cell>Elixier des Äsop IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_antidote</Cell>
+		<Cell>Weak Digestive Potion</Cell>
+		<Cell>Verdauungstrank I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_antidote_medium</Cell>
+		<Cell>Digestive Potion</Cell>
+		<Cell>Verdauungstrank II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_antidote_high</Cell>
+		<Cell>Strong Digestive Potion</Cell>
+		<Cell>Verdauungstrank III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_antidote_best</Cell>
+		<Cell>Henry's Digestive Potion</Cell>
+		<Cell>Verdauungstrank IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_aquaVitalis</Cell>
+		<Cell>Weak Aqua Vitalis</Cell>
+		<Cell>Aqua Vitalis I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_aquaVitalis_medium</Cell>
+		<Cell>Aqua Vitalis</Cell>
+		<Cell>Aqua Vitalis II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_aquaVitalis_high</Cell>
+		<Cell>Strong Aqua Vitalis</Cell>
+		<Cell>Aqua Vitalis III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_aquaVitalis_best</Cell>
+		<Cell>Henry's Aqua Vitalis</Cell>
+		<Cell>Aqua Vitalis IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_artemisia</Cell>
+		<Cell>Weak Artemisia</Cell>
+		<Cell>Wermutgeist I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_artemisia_medium</Cell>
+		<Cell>Artemisia</Cell>
+		<Cell>Wermutgeist II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_artemisia_high</Cell>
+		<Cell>Strong Artemisia</Cell>
+		<Cell>Wermutgeist III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_artemisia_best</Cell>
+		<Cell>Henry's Artemisia</Cell>
+		<Cell>Wermutgeist IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_bard</Cell>
+		<Cell>Weak Fox</Cell>
+		<Cell>Fuchstrank I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_bard_medium</Cell>
+		<Cell>Fox</Cell>
+		<Cell>Fuchstrank II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_bard_high</Cell>
+		<Cell>Strong Fox</Cell>
+		<Cell>Fuchstrank III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_bard_best</Cell>
+		<Cell>Henry's Fox</Cell>
+		<Cell>Fuchstrank IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_bowmanBrew</Cell>
+		<Cell>Weak Bowman's Brew</Cell>
+		<Cell>Schützentrunk I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_bowmanBrew_medium</Cell>
+		<Cell>Bowman's brew</Cell>
+		<Cell>Schützentrunk II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_bowmanBrew_high</Cell>
+		<Cell>Strong Bowman's brew</Cell>
+		<Cell>Schützentrunk III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_bowmanBrew_best</Cell>
+		<Cell>Henry's Bowman's brew</Cell>
+		<Cell>Schützentrunk IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_chamomile_decoction</Cell>
+		<Cell>Weak Chamomile Brew</Cell>
+		<Cell>Kamillentee I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_chamomile_decoction_medium</Cell>
+		<Cell>Chamomile brew</Cell>
+		<Cell>Kamillentee II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_chamomile_decoction_high</Cell>
+		<Cell>Strong Chamomile brew</Cell>
+		<Cell>Kamillentee III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_chamomile_decoction_best</Cell>
+		<Cell>Henry's Chamomile brew</Cell>
+		<Cell>Kamillentee IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_ebrocation</Cell>
+		<Cell>Weak Embrocation</Cell>
+		<Cell>Salbe I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_embrocation_medium</Cell>
+		<Cell>Embrocation</Cell>
+		<Cell>Salbe II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_embrocation_high</Cell>
+		<Cell>Strong Embrocation</Cell>
+		<Cell>Salbe III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_embrocation_best</Cell>
+		<Cell>Henry's Embrocation</Cell>
+		<Cell>Salbe IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_hair_o_dog</Cell>
+		<Cell>Weak Hair o' the Dog</Cell>
+		<Cell>Katerbier I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_hair_o_dog_medium</Cell>
+		<Cell>Hair o' the Dog</Cell>
+		<Cell>Katerbier II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_hair_o_dog_high</Cell>
+		<Cell>Strong Hair o' the Dog</Cell>
+		<Cell>Katerbier III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_hair_o_dog_best</Cell>
+		<Cell>Henry's Hair o' the Dog</Cell>
+		<Cell>Katerbier IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_insomnia</Cell>
+		<Cell>Weak Cockerel</Cell>
+		<Cell>Hahnenschrei-Trank I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_insomnia_medium</Cell>
+		<Cell>Cockerel</Cell>
+		<Cell>Hahnenschrei-Trank II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_insomnia_high</Cell>
+		<Cell>Strong Cockerel</Cell>
+		<Cell>Hahnenschrei-Trank III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_insomnia_best</Cell>
+		<Cell>Henry's Cockerel</Cell>
+		<Cell>Hahnenschrei-Trank IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_marigold</Cell>
+		<Cell>Weak Marigold decoction</Cell>
+		<Cell>Ringelblumen-Aufguss I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_marigold_medium</Cell>
+		<Cell>Marigold decoction</Cell>
+		<Cell>Ringelblumen-Aufguss II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_marigold_high</Cell>
+		<Cell>Strong Marigold Decoction</Cell>
+		<Cell>Ringelblumen-Aufguss III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_marigold_best</Cell>
+		<Cell>Henry's Marigold Decoction</Cell>
+		<Cell>Ringelblumen-Aufguss IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_nighthawk</Cell>
+		<Cell>Weak Nighthawk</Cell>
+		<Cell>Trank des Nachtfalken I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_nighthawk_medium</Cell>
+		<Cell>Nighthawk</Cell>
+		<Cell>Trank des Nachtfalken II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_nighthawk_high</Cell>
+		<Cell>Strong Nighthawk</Cell>
+		<Cell>Trank des Nachtfalken III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_nighthawk_best</Cell>
+		<Cell>Henry's Nighthawk</Cell>
+		<Cell>Trank des Nachtfalken IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_padfoot</Cell>
+		<Cell>Weak Quickfinger potion</Cell>
+		<Cell>Flinke-Finger-Trank I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_padfoot_medium</Cell>
+		<Cell>Quickfinger potion</Cell>
+		<Cell>Flinke-Finger-Trank II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_padfoot_high</Cell>
+		<Cell>Strong Quickfinger potion</Cell>
+		<Cell>Flinke-Finger-Trank III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_padfoot_best</Cell>
+		<Cell>Henry's Quickfinger potion</Cell>
+		<Cell>Flinke-Finger-Trank IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_painkiller</Cell>
+		<Cell>Weak Painkiller brew</Cell>
+		<Cell>Sud gegen Schmerzen I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_painkiller_medium</Cell>
+		<Cell>Painkiller brew</Cell>
+		<Cell>Sud gegen Schmerzen II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_painkiller_high</Cell>
+		<Cell>Strong Painkiller brew</Cell>
+		<Cell>Sud gegen Schmerzen III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_painkiller_best</Cell>
+		<Cell>Henry's Painkiller brew</Cell>
+		<Cell>Sud gegen Schmerzen IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_saviourSchnapps</Cell>
+		<Cell>Weak Saviour Schnapps</Cell>
+		<Cell>Retterschnaps I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_saviourSchnapps_medium</Cell>
+		<Cell>Saviour Schnapps</Cell>
+		<Cell>Retterschnaps II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_saviourSchnapps_high</Cell>
+		<Cell>Strong Saviour Schnapps</Cell>
+		<Cell>Retterschnaps III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_saviourSchnapps_best</Cell>
+		<Cell>Henry's Saviour Schnapps</Cell>
+		<Cell>Retterschnaps IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_stamina</Cell>
+		<Cell>Weak Buck's Blood</Cell>
+		<Cell>Bockblut-Trank I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_stamina_medium</Cell>
+		<Cell>Buck's blood</Cell>
+		<Cell>Bockblut-Trank II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_stamina_high</Cell>
+		<Cell>Strong Buck's Blood</Cell>
+		<Cell>Bockblut-Trank III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_potion_stamina_best</Cell>
+		<Cell>Henry's Buck's Blood</Cell>
+		<Cell>Bockblut-Trank IV</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##        Gifte        ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_banePoison</Cell>
+		<Cell>Weak Bane poison</Cell>
+		<Cell>Gift des Verderbens I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_banePoison_medium</Cell>
+		<Cell>Bane poison</Cell>
+		<Cell>Gift des Verderbens II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_banePoison_high</Cell>
+		<Cell>Strong Bane Poison</Cell>
+		<Cell>Gift des Verderbens III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_banePoison_best</Cell>
+		<Cell>Henry's Bane poison</Cell>
+		<Cell>Gift des Verderbens IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_paralysisPoison</Cell>
+		<Cell>Weak Dollmaker poison</Cell>
+		<Cell>Puppenmacher-Trank I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_paralysisPoison_medium</Cell>
+		<Cell>Dollmaker poison</Cell>
+		<Cell>Puppenmacher-Trank II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_paralysisPoison_high</Cell>
+		<Cell>Strong Dollmaker poison</Cell>
+		<Cell>Puppenmacher-Trank III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_paralysisPoison_best</Cell>
+		<Cell>Henry's Dollmaker poison</Cell>
+		<Cell>Puppenmacher-Trank IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sleepingPoison</Cell>
+		<Cell>Weak Lullaby potion</Cell>
+		<Cell>Schlaftrunk I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sleepingPoison_medium</Cell>
+		<Cell>Lullaby potion</Cell>
+		<Cell>Schlaftrunk II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sleepingPoison_high</Cell>
+		<Cell>Strong Lullaby potion</Cell>
+		<Cell>Schlaftrunk III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sleepingPoison_best</Cell>
+		<Cell>Henry's Lullaby potion</Cell>
+		<Cell>Schlaftrunk IV</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##       Parfüm        ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_perfume_longWeak</Cell>
+		<Cell>Weak Mintha perfume</Cell>
+		<Cell>Parfüm der Minthe I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_perfume_longWeak_medium</Cell>
+		<Cell>Mintha perfume</Cell>
+		<Cell>Parfüm der Minthe II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_perfume_longWeak_high</Cell>
+		<Cell>Strong Mintha Perfume Effect</Cell>
+		<Cell>Parfüm der Minthe III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_perfume_longWeak_best</Cell>
+		<Cell>Henry's Mintha perfume</Cell>
+		<Cell>Parfüm der Minthe IV</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_perfume_shortStrong</Cell>
+		<Cell>Weak Lion perfume</Cell>
+		<Cell>Löwen Parfüm I</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_perfume_shortStrong_medium</Cell>
+		<Cell>Lion perfume</Cell>
+		<Cell>Löwen Parfüm II</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_perfume_shortStrong_high</Cell>
+		<Cell>Strong Lion Perfume</Cell>
+		<Cell>Löwen Parfüm III</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_perfume_shortStrong_best</Cell>
+		<Cell>Henry's Lion perfume</Cell>
+		<Cell>Löwen Parfüm IV</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##       Pfeile        ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_hm_arrow_normal</Cell>
+		<Cell>Ordinary arrow</Cell>
+		<Cell>Pfeile - Gewöhnlicher Pfeil</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_broken</Cell>
+		<Cell>Broken arrow</Cell>
+		<Cell>Pfeile - Zerbrochen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_crude</Cell>
+		<Cell>Crude arrow</Cell>
+		<Cell>Pfeile - Grob</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_cutting</Cell>
+		<Cell>Wounding arrow</Cell>
+		<Cell>Pfeile - Wundpfeil</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_cutting_enh</Cell>
+		<Cell>Enhanced wounding arrow</Cell>
+		<Cell>Pfeile - Wundpfeil (Verbessert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_hunter</Cell>
+		<Cell>Hunting arrow</Cell>
+		<Cell>Pfeile - Jagdpfeil</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_enh_hunter</Cell>
+		<Cell>Better hunting arrow</Cell>
+		<Cell>Pfeile - Jagdpfeil (Verbessert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_pierce</Cell>
+		<Cell>Piercing arrow</Cell>
+		<Cell>Pfeile - Spitzpfeil</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_enh_pierce</Cell>
+		<Cell>Better piercing arrow</Cell>
+		<Cell>Pfeile - Spitzpfeil (Verbessert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_precise</Cell>
+		<Cell>Long-range arrow</Cell>
+		<Cell>Pfeile - Langstreckenpfeil</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_enh_precise</Cell>
+		<Cell>Enhanced long-range arrow</Cell>
+		<Cell>Pfeile - Langstreckenpfeil (Verbessert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_EXAMPLE</Cell>
+		<Cell>New test arrow</Cell>
+		<Cell>Pfeile - Neuer Übungspfeil</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_arrow_tournament</Cell>
+		<Cell>Tournament arrow</Cell>
+		<Cell>Pfeile - Turnierpfeil</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##       Bolzen        ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_arrow_bolt</Cell>
+		<Cell>Broken bolt</Cell>
+		<Cell>Bolzen - Zerbrochen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_crude</Cell>
+		<Cell>Crude bolt</Cell>
+		<Cell>Bolzen - Grob</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_cutting</Cell>
+		<Cell>Wounding bolt</Cell>
+		<Cell>Bolzen - Wundbolzen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_enh_cutting</Cell>
+		<Cell>Enhanced wounding bolt</Cell>
+		<Cell>Bolzen - Wundbolzen (Verbessert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_hunting</Cell>
+		<Cell>Hunting bolt</Cell>
+		<Cell>Bolzen - Jagdbolzen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_enh_hunting</Cell>
+		<Cell>Enhanced hunting bolt</Cell>
+		<Cell>Bolzen - Jagdbolzen (Verbessert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_piercing</Cell>
+		<Cell>Piercing bolt</Cell>
+		<Cell>Bolzen - Spitzbolzen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_enh_piercing</Cell>
+		<Cell>Enhanced piercing bolt</Cell>
+		<Cell>Bolzen - Spitzbolzen (Verbessert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_enh_precise</Cell>
+		<Cell>Sharpshooter's bolt</Cell>
+		<Cell>Bolzen - Scharfschütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_fine</Cell>
+		<Cell>Fine bolt</Cell>
+		<Cell>Bolzen - Fein</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_normal</Cell>
+		<Cell>Common bolt</Cell>
+		<Cell>Bolzen - Gewöhnlich</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_precise</Cell>
+		<Cell>Marksman's bolt</Cell>
+		<Cell>Bolzen - Schützenbolzen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bolt_tournament</Cell>
+		<Cell>Tournament bolt</Cell>
+		<Cell>Bolzen - Turnierbolzen</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##       Kugeln        ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_battle_shot</Cell>
+		<Cell>Battle shot</Cell>
+		<Cell>Schießpulver - Kampfschrot</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_scatterShot</Cell>
+		<Cell>Scattershot</Cell>
+		<Cell>Schießpulver - Streusschrot</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_ballShot</Cell>
+		<Cell>Lead ball</Cell>
+		<Cell>Schießpulver - Bleisschrot</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##        Bögen        ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_bow_b</Cell>
+		<Cell>Village hazel bow</Cell>
+		<Cell>Bogen - Rustikal Haselnuss</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_b_a</Cell>
+		<Cell>Dogwood village bow</Cell>
+		<Cell>Bogen - Rustikal Hornstrauch</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_b_b</Cell>
+		<Cell>Village elm bow</Cell>
+		<Cell>Bogen - Rustikal Ulme</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_c</Cell>
+		<Cell>Dogwood hunting bow</Cell>
+		<Cell>Bogen - Jagd Hornstrauch</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_c_b</Cell>
+		<Cell>Ash hunting bow</Cell>
+		<Cell>Bogen - Jagd Esche</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_c_c</Cell>
+		<Cell>Elm hunting bow</Cell>
+		<Cell>Bogen - Jagd Ulme</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_e</Cell>
+		<Cell>Yew hunting bow</Cell>
+		<Cell>Bogen - Jagd Eibe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_a</Cell>
+		<Cell>Hazel longbow</Cell>
+		<Cell>Bogen - Langbogen Haselnuss</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_d</Cell>
+		<Cell>Elm longbow</Cell>
+		<Cell>Bogen - Langbogen Ulme</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_d_a</Cell>
+		<Cell>Ash longbow</Cell>
+		<Cell>Bogen - Langbogen Esche</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuman_bow_a</Cell>
+		<Cell>Ornate Cuman bow</Cell>
+		<Cell>Bogen - Kumanischer (verziert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuman_bow_a_a</Cell>
+		<Cell>Cuman chief's bow</Cell>
+		<Cell>Bogen - Kumanischer (Häuptling)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuman_bow_a_b</Cell>
+		<Cell>Cuman folded bow</Cell>
+		<Cell>Bogen - Kumanischer Sehnenbogen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cuman_bow_b</Cell>
+		<Cell>Worn Cuman bow</Cell>
+		<Cell>Bogen - Kumanischer (abgenutzt)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bow_e_a</Cell>
+		<Cell>Master's hunting bow</Cell>
+		<Cell>Bogen - Jägermeisters</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_zachranaPtacka_caponRewardBow</Cell>
+		<Cell>Hunting bow from Hans Capon</Cell>
+		<Cell>Bogen - Jagdbogen von Hans Capon</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_prepadeni_banditBow</Cell>
+		<Cell>Footpad's bow</Cell>
+		<Cell>Bogen - Räuberbogen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm__sedmStatecnych2_raneksBow</Cell>
+		<Cell>Ranyek's bow</Cell>
+		<Cell>Bogen - Ranyeks Bogen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_poi_skrysStarehoPytlaka_poachersBow</Cell>
+		<Cell>Poacher's bow</Cell>
+		<Cell>Bogen - Wildererbogen</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##      Armbrüste      ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_crossbowHeavyCheap01</Cell>
+		<Cell>Heavy crossbow</Cell>
+		<Cell>Armbrust - Schwer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_crossbowHeavyNormal01</Cell>
+		<Cell>Reinforced heavy crossbow</Cell>
+		<Cell>Armbrust - Schwer (verstärkt)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_crossbowLightArtemis</Cell>
+		<Cell>Artemis' crossbow</Cell>
+		<Cell>Armbrust der Artemis</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_crossbowLightCheap01</Cell>
+		<Cell>Old hunting crossbow</Cell>
+		<Cell>Armbrust - Jagdarmbrust (alt)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_crossbowLightFancy01</Cell>
+		<Cell>Ornate hunting crossbow</Cell>
+		<Cell>Armbrust - Jagdarmbrust (verziert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_crossbowLightNormal01</Cell>
+		<Cell>Hunting crossbow</Cell>
+		<Cell>Armbrust - Jagdarmbrust</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_crossbowMediumCheap01</Cell>
+		<Cell>Old field crossbow</Cell>
+		<Cell>Armbrust - Kriegsarmbrust (alt)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_crossbowMediumFancy01</Cell>
+		<Cell>Decorated field crossbow</Cell>
+		<Cell>Armbrust - Kriegsarmbrust (verziert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_crossbowMediumNormal01</Cell>
+		<Cell>Field crossbow</Cell>
+		<Cell>Armbrust - Kriegsarmbrust</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_havirskyTurnajMediumCrossbow</Cell>
+		<Cell>Miners' crossbow</Cell>
+		<Cell>Armbrust - Bergmann</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_magickySip_pechCrossbow</Cell>
+		<Cell>Pasha's crossbow</Cell>
+		<Cell>Armbrust - Patzers Armbrust</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_zbranePanaSemina_sukCrossbow</Cell>
+		<Cell>Gnarly's crossbow</Cell>
+		<Cell>Armbrust - Knorrens Armbrust</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##     Handwaffen      ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_handgonneNormal01</Cell>
+		<Cell>Pistole</Cell>
+		<Cell>Pistole - Handkanone</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_handgonneFancy01</Cell>
+		<Cell>Master's handgonne</Cell>
+		<Cell>Pistole - Meisterpistole</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hookgunNormal01</Cell>
+		<Cell>Hook gun</Cell>
+		<Cell>Pistole - Handkanone</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hookgunFancy01</Cell>
+		<Cell>Marksman's hook gun</Cell>
+		<Cell>Pistole - Schützenhakenpistole</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##  Schwerter - kurz   ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_shortSwordBasilard</Cell>
+		<Cell>Basilard</Cell>
+		<Cell>Kurz - Schweizerdolch</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shortswordBroad</Cell>
+		<Cell>Broadsword</Cell>
+		<Cell>Kurz - Breitschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shortswordCeremony</Cell>
+		<Cell>Noble's sword</Cell>
+		<Cell>Kurz - Edles Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shortswordcleaver</Cell>
+		<Cell>Homemade hunting sword</Cell>
+		<Cell>Kurz - Jagdschwert (Selbstgebaut)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shortswordCommon</Cell>
+		<Cell>Military sword</Cell>
+		<Cell>Kurz - Militärisches Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shortswordCommon_khTournament</Cell>
+		<Cell>Tournament sword</Cell>
+		<Cell>Kurz - Turnierschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shortswordHeavy</Cell>
+		<Cell>Knight's sword</Cell>
+		<Cell>Kurz - Ritterschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shortswordTraining</Cell>
+		<Cell>Training sword</Cell>
+		<Cell>Kurz - Übungsschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bejkovecShortSwordRusty</Cell>
+		<Cell>Old rusty sword</Cell>
+		<Cell>Kurz - Altes rostiges Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_test_nm_dvojityAgent_petrsShortSword</Cell>
+		<Cell>Peter of Suchotlesky's sword</Cell>
+		<Cell>Kurz - Peter von Suchotlesky</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bergovShortSword</Cell>
+		<Cell>Lord von Bergow's sword</Cell>
+		<Cell>Kurz - Herrn von Bergow</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brabantShortSword</Cell>
+		<Cell>Opportunity</Cell>
+		<Cell>Kurz - Gelegenheit</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_huntingSwordBasic</Cell>
+		<Cell>Hunting sword</Cell>
+		<Cell>Kurz - Jagdschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_huntingSwordFalchion</Cell>
+		<Cell>Falchion</Cell>
+		<Cell>Kurz - Falchion</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_huntingSwordGuard</Cell>
+		<Cell>Burgher's hunting sword</Cell>
+		<Cell>Kurz - Jagdschwert (Bürger)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_huntingSwordMussle</Cell>
+		<Cell>Shell hunting sword</Cell>
+		<Cell>Kurz - Jagdschwert (Muschel)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_huntingSwordSashka</Cell>
+		<Cell>Cuman shashka</Cell>
+		<Cell>Kurz - Kumanische Schaschka</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_huntingSwordSword</Cell>
+		<Cell>Noble's hunting sword</Cell>
+		<Cell>Kurz - Jagdschwert (Edel)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sermiryHuntingSwordJimram</Cell>
+		<Cell>Emmeram's hunting sword</Cell>
+		<Cell>Kurz - Jagdschwert (Emmeram)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_stealthMiseZaJindru_samHuntingKnife</Cell>
+		<Cell>Samuel's hunting sword</Cell>
+		<Cell>Kurz - Jagdschwert (Samuel)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniKovarskaSoutez_huntingKnifeApprentice</Cell>
+		<Cell>Competition hunting sword</Cell>
+		<Cell>Kurz - Jagdschwert (Lehrling)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniKovarskaSoutez_huntingKnifeForContest</Cell>
+		<Cell>Competition sword</Cell>
+		<Cell>Kurz - Jagdschwert (Wettkampf)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sabrecommon</Cell>
+		<Cell>Common sabre</Cell>
+		<Cell>Kurz - Säbel (Gewöhnlich)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sabrenoble</Cell>
+		<Cell>Ataman's sabre</Cell>
+		<Cell>Kurz - Säbel (Ataman)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniVajdovaKletba_rikonaris</Cell>
+		<Cell>Rikonaris' sabre</Cell>
+		<Cell>Kurz - Säbel (Rikonaris)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniNaKovarne_pajslSword</Cell>
+		<Cell>Pieschel's sword</Cell>
+		<Cell>Kurz - Pieschels Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniNaKovarne_smithsDefense</Cell>
+		<Cell>Blacksmith's defender</Cell>
+		<Cell>Kurz - Beschützer des Schmieds</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniRelikvie_swordOfKnightValentin</Cell>
+		<Cell>Sword of Sir Valentine</Cell>
+		<Cell>Kurz - Ritter Valentins Schwert</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##  Schwerter - lang   ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_longswordBohuta</Cell>
+		<Cell>Godwin's longsword</Cell>
+		<Cell>Lang - Godwins Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longswordBroad</Cell>
+		<Cell>Broad longsword</Cell>
+		<Cell>Lang - Breitschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longswordCommon</Cell>
+		<Cell>Common longsword</Cell>
+		<Cell>Lang - Gewöhnlich</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longswordDemo</Cell>
+		<Cell>Longsword</Cell>
+		<Cell>Lang - Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longswordDevil</Cell>
+		<Cell>Dry Devil's longsword</Cell>
+		<Cell>Lang - Knochenteufels Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longSwordDuel</Cell>
+		<Cell>Duelling longsword</Cell>
+		<Cell>Lang - Duellierschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longSwordDuel_khTournament</Cell>
+		<Cell>Tournament longsword</Cell>
+		<Cell>Lang - Turnierschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longSwordOld</Cell>
+		<Cell>Knight's longsword</Cell>
+		<Cell>Lang - Ritterschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longswordSturdy</Cell>
+		<Cell>Battle longsword</Cell>
+		<Cell>Lang - Schwert für Schlachten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_longswordTraining</Cell>
+		<Cell>Training longsword</Cell>
+		<Cell>Lang - Übungsschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sermiry_guildSword</Cell>
+		<Cell>Guild Longsword</Cell>
+		<Cell>Lang - Gildenschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sermiry_longSwordMenhart</Cell>
+		<Cell>Master Menhart's longsword</Cell>
+		<Cell>Lang - Meister Menharts Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_sermiry_trainingSword</Cell>
+		<Cell>Training longsword</Cell>
+		<Cell>Lang - Übungsschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniSymbolSermirny_brokenGuildSword</Cell>
+		<Cell>Broken guild longsword</Cell>
+		<Cell>Lang - Gildenschwert (Zerbrochen)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniSymbolSermirny_guildSwordRemake</Cell>
+		<Cell>Guild Longsword</Cell>
+		<Cell>Lang - Gildenschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_henrySword</Cell>
+		<Cell>Henry's longsword</Cell>
+		<Cell>Lang - Heinrichs Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_henrySword_reforged</Cell>
+		<Cell>Henry's sword reforged</Cell>
+		<Cell>Lang - Heinrichs Schwert (Umgeschmiedet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_radzigSword</Cell>
+		<Cell>Radzig Kobyla's longsword</Cell>
+		<Cell>Lang - Radzigs Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_radzigSword_reforged</Cell>
+		<Cell>Reforged Radzig Kobyla's sword</Cell>
+		<Cell>Lang - Radzigs Schwert (Umgeschmiedet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_caponLongSword</Cell>
+		<Cell>Lord Capon's longsword</Cell>
+		<Cell>Lang- Herrn Capons Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_finale_hanusLongsword</Cell>
+		<Cell>Hanush's sword</Cell>
+		<Cell>Lang - Herrn Hanuschss Sschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniKopie_absolver</Cell>
+		<Cell>Longsword "Absolver"</Cell>
+		<Cell>Lang - „Erlöser“</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniKopie_penitent</Cell>
+		<Cell>Replica of the longsword "Absolver"</Cell>
+		<Cell>Lang - „Erlöser“ (Replik)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_poustevnik_seminSword</Cell>
+		<Cell>Toledo steel sword</Cell>
+		<Cell>Lang - Schwert aus Toledo-Stahl</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_poustevnik_seminSword_q</Cell>
+		<Cell>Sword for young Lord Semine</Cell>
+		<Cell>Lang - Schwert für den jungen Semin</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tournament_kuttenbergSword</Cell>
+		<Cell>Kuttenberg longsword</Cell>
+		<Cell>Lang - Kuttenberger Langschwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_stealthMiseZaJindru_aulitzSword</Cell>
+		<Cell>Markvart von Aulitz's sword</Cell>
+		<Cell>Lang - Markwart von Aulitz' Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_oblehaniSuchdole_oldSword</Cell>
+		<Cell>Old sword</Cell>
+		<Cell>Lang - Altes Schwert</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_svatba_longswordTourname</Cell>
+		<Cell>Tournament practice sword</Cell>
+		<Cell>Lang - Übungsschwer (Turnier)</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##         Äxte        ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_axeBattle01</Cell>
+		<Cell>Bearded axe</Cell>
+		<Cell>Axt - Kampfaxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeBattle02</Cell>
+		<Cell>Broad axe</Cell>
+		<Cell>Axt - Breitaxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeBattle03</Cell>
+		<Cell>Horseman's pick</Cell>
+		<Cell>Axt - Reiteraxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeBattle04</Cell>
+		<Cell>Knight's axe</Cell>
+		<Cell>Axt - Ritteraxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeCuman</Cell>
+		<Cell>Cuman fokos</Cell>
+		<Cell>Axt - Kumanischer Fokos</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeFancy</Cell>
+		<Cell>Executioner's axe</Cell>
+		<Cell>Axt - Henkersaxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeTraining</Cell>
+		<Cell>Training axe</Cell>
+		<Cell>Axt - Übungsaxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeWork01</Cell>
+		<Cell>Work axe</Cell>
+		<Cell>Axt - Holzfälleraxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeWork02</Cell>
+		<Cell>Carpenter's axe</Cell>
+		<Cell>Axt - Zimmermannsaxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_common_rustyAxe</Cell>
+		<Cell>Rusty axe</Cell>
+		<Cell>Axt - Rostige Axt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniPoklad_adornedAxe</Cell>
+		<Cell>Adorned axe</Cell>
+		<Cell>Axt - Axt (Verziert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniPoklad_ruinedAxe</Cell>
+		<Cell>Broken axe</Cell>
+		<Cell>Axt - Axt (Zerbrochen)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_naTroskach_axeKolda</Cell>
+		<Cell>Kolda's axe</Cell>
+		<Cell>Axt - Koldas Axt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_poi_ratborschButcherAxe</Cell>
+		<Cell>Raborsch butcher's axe</Cell>
+		<Cell>Axt - Fleischer von RaborschS Axt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kovaniAsiDoVezi_protectiveAxe</Cell>
+		<Cell>Protective axe</Cell>
+		<Cell>Axt - Beschützende Axt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeWork02_broken_kunesh</Cell>
+		<Cell>Axe from Skalitz stub</Cell>
+		<Cell>Axt - Skalitzer Axt (Stummel)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_axeWork02_kunesh</Cell>
+		<Cell>Skalitz axe</Cell>
+		<Cell>Axt - Skalitzer Axt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_placeholder_axe</Cell>
+		<Cell>Placeholder axe</Cell>
+		<Cell>Axt - Platzhalteraxt</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##     Streitkolben    ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_mace01</Cell>
+		<Cell>Light mace</Cell>
+		<Cell>Kolben - Streitkolben (Leicht)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mace02</Cell>
+		<Cell>Common mace</Cell>
+		<Cell>Kolben - Streitkolben (Gewöhnlich)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mace03</Cell>
+		<Cell>Flanged mace</Cell>
+		<Cell>Kolben - Blattkeule</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mace04</Cell>
+		<Cell>Ornate mace</Cell>
+		<Cell>Kolben - Streitkolben (Verziert)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_maceBailiff</Cell>
+		<Cell>Bailiff's mace</Cell>
+		<Cell>Kolben - Streitkolben des Vogts</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_maceClub</Cell>
+		<Cell>Club</Cell>
+		<Cell>Kolben - Knüppel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_maceClubSpiked</Cell>
+		<Cell>Reinforced bludgeon</Cell>
+		<Cell>Kolben - Nagelkeule</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_maceClubTraining</Cell>
+		<Cell>Training bludgeon</Cell>
+		<Cell>Kolben - Übungsknüppel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_maceDagger</Cell>
+		<Cell>Dagger mace</Cell>
+		<Cell>Kolben - Dolchkeule</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_maceHetman</Cell>
+		<Cell>Captain's mace</Cell>
+		<Cell>Kolben - Streitkolben des Hauptmanns</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_maceZizka</Cell>
+		<Cell>Zizka's mace</Cell>
+		<Cell>Kolben - Streitkolben (Zizkas)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_placeholder_maceHeavy</Cell>
+		<Cell>Heavy mace</Cell>
+		<Cell>Kolben - Streitkolben (Schwer)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_taboryLapkuTrosecko_plesnivecMace</Cell>
+		<Cell>Canker's mace</Cell>
+		<Cell>Kolben - Streitkolben (Fäules)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_tournament_maceHerald</Cell>
+		<Cell>Tournament mace</Cell>
+		<Cell>Kolben - Streitkolben (Turnier)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_zbranePanaSemina_sukClub</Cell>
+		<Cell>Gnarly's club</Cell>
+		<Cell>Kolben - Knorrens Knüppel</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##     Kriegshammer    ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_warhammer01</Cell>
+		<Cell>Common war hammer</Cell>
+		<Cell>Hammer - Kriegshammer (gewöhnlich)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_warhammer02</Cell>
+		<Cell>Rider's war hammer</Cell>
+		<Cell>Hammer - Kriegshammer für Reiter</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_warhammer03</Cell>
+		<Cell>Knight's war hammer</Cell>
+		<Cell>Hammer - Ritterkriegshammer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_warhammer03_trollslayer</Cell>
+		<Cell>Trollbane hammer</Cell>
+		<Cell>Hammer - Trollschreck-Hammer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_warhammer03_trollslayer_broken</Cell>
+		<Cell>Trollbane hammer stub</Cell>
+		<Cell>Hammer - Trollschreck-Hammer (Stummel)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_warhammer04</Cell>
+		<Cell>Lavish warhammer</Cell>
+		<Cell>Hammer - Kriegshammer (Aufwendig)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_warhammerRaven</Cell>
+		<Cell>Raven's beak</Cell>
+		<Cell>Hammer - Rabenschnabel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_warhammerStab</Cell>
+		<Cell>War hammer</Cell>
+		<Cell>Hammer - Kriegshammer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hromovyKamen_ramsHead</Cell>
+		<Cell>Ramhead hammer</Cell>
+		<Cell>Hammer - Widderhammer</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##    Stangenwaffen    ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_polearmBardiche</Cell>
+		<Cell>Bardiche</Cell>
+		<Cell>Stangenwaffe - Bartaxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmBruncvik</Cell>
+		<Cell>Brunswick's poleaxe</Cell>
+		<Cell>Stangenwaffe - Brunswieks Holzaxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmGlaive</Cell>
+		<Cell>Glaive</Cell>
+		<Cell>Stangenwaffe - Glefe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmGuisarme</Cell>
+		<Cell>Guisarme</Cell>
+		<Cell>Stangenwaffe - Guisarme</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmMorgenstern</Cell>
+		<Cell>Morgenstern</Cell>
+		<Cell>Stangenwaffe - Morgenstern</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmPitchfork</Cell>
+		<Cell>Pitchfork</Cell>
+		<Cell>Stangenwaffe - Mistgabel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmPitchforkSedlakaMateje</Cell>
+		<Cell>Farmer Matthew's pitchfork</Cell>
+		<Cell>Stangenwaffe - Mistgabel von Bauer Matthäus</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmPoleaxe</Cell>
+		<Cell>Poleaxe</Cell>
+		<Cell>Stangenwaffe - Streitaxt</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmSpear</Cell>
+		<Cell>Billhook</Cell>
+		<Cell>Stangenwaffe - Speer mit Haken</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmTraining</Cell>
+		<Cell>Staff</Cell>
+		<Cell>Stangenwaffe - Stab</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_polearmVoulge</Cell>
+		<Cell>Voulge</Cell>
+		<Cell>Stangenwaffe - Voulge</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brokenPolearm</Cell>
+		<Cell>Broken polearm</Cell>
+		<Cell>Stangenwaffe -Stangenwaffe (zertstört)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_magicShop_polearm_broken</Cell>
+		<Cell>Broken Roman soldier's spear</Cell>
+		<Cell>Stangenwaffe - Zerstörter Speer eines römischen Soldaten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bratriZCimburka_balsanHalberd</Cell>
+		<Cell>Balshanka</Cell>
+		<Cell>Stangenwaffe - Hellebarde von Jan von Cimburg</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##     Beinkleider     ## -->
+	<!-- ######################### -->
+	<!-- ##  Beine I Sporen     ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_spurs01_m01</Cell>
+		<Cell>Rowel spurs</Cell>
+		<Cell>Beine I - Sporenrädchen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_spurs01_m02</Cell>
+		<Cell>Hungarian spurs</Cell>
+		<Cell>Beine I - Ungarische Sporen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_spurs01_m03</Cell>
+		<Cell>Knight's spurs</Cell>
+		<Cell>Beine I - Rittersporen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_spurs01_m04</Cell>
+		<Cell>Noble's spurs</Cell>
+		<Cell>Beine I - Edle Sporen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_ztracenaCest_jezeksSpurs</Cell>
+		<Cell>Jezhek's spurs</Cell>
+		<Cell>Beine I - Jescheks Sporen</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##  Beine II Schuhe    ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_bootsankle01_m01</Cell>
+		<Cell>Work boots</Cell>
+		<Cell>Beine II - Arbeitsstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsankle02_m01</Cell>
+		<Cell>Travel boots</Cell>
+		<Cell>Beine II - Reisestiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsankle03_m01</Cell>
+		<Cell>Vagrant's boots</Cell>
+		<Cell>Beine II - Landstreicherstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsankle04_m01</Cell>
+		<Cell>Courtiers boots</Cell>
+		<Cell>Beine II - Höflingsstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsankle05_m01</Cell>
+		<Cell>Firm boots</Cell>
+		<Cell>Beine II - Feste Stiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsankle06_m01</Cell>
+		<Cell>Jester shoes</Cell>
+		<Cell>Beine II - Narrenschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsankle_twitch</Cell>
+		<Cell>Warhorse boots</Cell>
+		<Cell>Beine II - Schlachtrossstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee01_m01</Cell>
+		<Cell>Noble boots</Cell>
+		<Cell>Beine II - Edle Stiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee02_mlichtenstein</Cell>
+		<Cell>Burgher's shoes</Cell>
+		<Cell>Beine II - Bürgerschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee03_m01</Cell>
+		<Cell>Riding boots</Cell>
+		<Cell>Beine II - Reiterstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee04_m01</Cell>
+		<Cell>High boots</Cell>
+		<Cell>Beine II - Schaftstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee05_m01</Cell>
+		<Cell>Cuman boots</Cell>
+		<Cell>Beine II - Kumanische Stiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee_huntsman</Cell>
+		<Cell>Master huntsman's boots</Cell>
+		<Cell>Beine II - Stiefel des Jägermeisters</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_f_shoes01_m01</Cell>
+		<Cell>Ladies shoes</Cell>
+		<Cell>Beine II - Frauenschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_f_shoes02_m01</Cell>
+		<Cell>Common ladies shoes</Cell>
+		<Cell>Beine II - Gewöhnliche Frauenschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hladAZmar_lambskinShoes</Cell>
+		<Cell>Lambskin shoes</Cell>
+		<Cell>Beine II - Lammlederschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes01_m01</Cell>
+		<Cell>Simple shoes</Cell>
+		<Cell>Beine II - Gewöhnliche Schuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes02_m01</Cell>
+		<Cell>Burgher's shoes</Cell>
+		<Cell>Beine II - Bürgerschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes03_m01</Cell>
+		<Cell>Soft shoes</Cell>
+		<Cell>Beine II - Weiche Schuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes03_mlegate</Cell>
+		<Cell>Legate's shoes</Cell>
+		<Cell>Beine II - Schuhe des Legaten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes04_m01</Cell>
+		<Cell>Simple shoes</Cell>
+		<Cell>Beine II - Einfache Schuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes05_m01</Cell>
+		<Cell>Pointed shoes</Cell>
+		<Cell>Beine II - Spitze Schuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes_twitch</Cell>
+		<Cell>Cutpurse's shoes</Cell>
+		<Cell>Beine II - Schuhe des Taschendiebs</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legspadded05_m01</Cell>
+		<Cell>Riding boots - high</Cell>
+		<Cell>Beine II - Hohe Reiterstiefel</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ## Beine III Panzerung ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_legsbrigandine01_m01</Cell>
+		<Cell>Old brigandine legs</Cell>
+		<Cell>Beine III - Brigantinenbeinpanzerung (Alte)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsbrigandine03_m01</Cell>
+		<Cell>Noble brigandine legs</Cell>
+		<Cell>Beine III - Brigantinenbeinpanzerung (Edle)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsbrigandine04_m01</Cell>
+		<Cell>Laminar knight legs</Cell>
+		<Cell>Beine III - Ritter-Gliederpanzerbeinschutz</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsbrigandine_twitch</Cell>
+		<Cell>Warhorse plate leg armour</Cell>
+		<Cell>Beine III - Schlachtrossbeinplatten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsplate01_m01</Cell>
+		<Cell>Bavarian plate legs</Cell>
+		<Cell>Beine III - Bayrische Beinplatten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsplate02_m01</Cell>
+		<Cell>Milanese plate leg armour</Cell>
+		<Cell>Beine III - Mailänder Beinplatten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsplate03_m01</Cell>
+		<Cell>Noble's plate legs</Cell>
+		<Cell>Beine III - Edle Beinplatten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsplate04_m01</Cell>
+		<Cell>Half plate legs</Cell>
+		<Cell>Beine III - Halbplatten-Beinschienen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsplate05_m01</Cell>
+		<Cell>Saxon plate legs</Cell>
+		<Cell>Beine III - Sächsische Beinplatten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsplate05_m01Brunswig</Cell>
+		<Cell>Brunswick's plate leg armour</Cell>
+		<Cell>Beine III - Beinplatten des Brunswiek</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legsplate05_m01Capon</Cell>
+		<Cell>Capon' plate chausses</Cell>
+		<Cell>Beine III - Capons Plattenbeinlinge</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_ztracenaCest_jezeksLegs</Cell>
+		<Cell>Jezhek's plate chausses</Cell>
+		<Cell>Jescheks Beinplatten</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##   Beine IV Hosen    ## -->
+	<!-- ######################### -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hosejoined01_m01</Cell> -->
+	<!-- <Cell>Hose joined</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Verbundene)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hosejoined01_mdrowner</Cell> -->
+	<!-- <Cell>Drowner's hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge des Ertrunkenen</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hosejoined02_m01</Cell> -->
+	<!-- <Cell>Gartered hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge mit Strumpfbändern</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hosejoined02_m02</Cell> -->
+	<!-- <Cell>Tied jester's hose</Cell> -->
+	<!-- <Cell>Beine IV - Gebundene Narrenhose</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hosejoined02_mlegate</Cell> -->
+	<!-- <Cell>Legate's hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge des Legaten</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hosejoined_twitch</Cell> -->
+	<!-- <Cell>Cutpurse's hose</Cell> -->
+	<!-- <Cell>Beine IV - Hose des Taschendiebs</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hosejoine_hunter</Cell> -->
+	<!-- <Cell>Master huntsman's hose</Cell> -->
+	<!-- <Cell>Beine IV - Hose des Jägermeisters</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hoseloose01_m01</Cell> -->
+	<!-- <Cell>Hose loose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Lose)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hoseseparate01_m01</Cell> -->
+	<!-- <Cell>Simple hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Einfache)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hoseseparate01_m02</Cell> -->
+	<!-- <Cell>Plain troubadours' hose</Cell> -->
+	<!-- <Cell>Beine IV - Einfache Minnesängerhose</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hoseseparate04_m01</Cell> -->
+	<!-- <Cell>Beggar's hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Bettler)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_hoseseparate05_m01</Cell> -->
+	<!-- <Cell>Miner hose</Cell> -->
+	<!-- <Cell>Beine IV - Bergmannsbeinlinge</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded01_m01</Cell> -->
+	<!-- <Cell>Quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded01_m02</Cell> -->
+	<!-- <Cell>Padded chausses</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gepolstert)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded01_m03</Cell> -->
+	<!-- <Cell>Padded chausses</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gepolstert)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded01_m04</Cell> -->
+	<!-- <Cell>Padded chausses</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gepolstert)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded02_m01</Cell> -->
+	<!-- <Cell>Old quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Alte gesteppte Beinlinge</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m01</Cell> -->
+	<!-- <Cell>Noble quilted trousers</Cell> -->
+	<!-- <Cell>Beine IV - Hose (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m02</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m03</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m04</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m05</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m06</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m07</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m08</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m09</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m10</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded03_m11</Cell> -->
+	<!-- <Cell>Noble's quilted hose</Cell> -->
+	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
+	<!-- </Row> -->
+	<!-- <Row> -->
+	<!-- <Cell>ui_nm_legspadded_godwin</Cell> -->
+	<!-- <Cell>Mended padded leggings</Cell> -->
+	<!-- <Cell>Beine IV - Hose (Gesteppte geflickt)</Cell> -->
+	<!-- </Row> -->
+	<!-- ######################### -->
+	<!-- ##       Kräuter       ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_herb_belladona</Cell>
+		<Cell>Belladonna</Cell>
+		<Cell>Tollkirsche</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_chamomile</Cell>
+		<Cell>Chamomile</Cell>
+		<Cell>Kamille</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_comfrey</Cell>
+		<Cell>Comfrey</Cell>
+		<Cell>Beinwell</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dandelion</Cell>
+		<Cell>Dandelion</Cell>
+		<Cell>Löwenzahn</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_elderberry</Cell>
+		<Cell>Elderberry leaves</Cell>
+		<Cell>Holunderblätter</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_eyewort</Cell>
+		<Cell>Eyebright</Cell>
+		<Cell>Augentrost</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_ginger</Cell>
+		<Cell>Ginger</Cell>
+		<Cell>Ingwer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_hypericum</Cell>
+		<Cell>St. John's wort</Cell>
+		<Cell>Johanniskraut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_marigold</Cell>
+		<Cell>Marigold</Cell>
+		<Cell>Ringelblume</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_mint</Cell>
+		<Cell>Mint</Cell>
+		<Cell>Minze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_nightshade</Cell>
+		<Cell>Henbane</Cell>
+		<Cell>Bilsenkraut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_paris</Cell>
+		<Cell>Herb Paris</Cell>
+		<Cell>Einbeere</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_poppy</Cell>
+		<Cell>Poppy</Cell>
+		<Cell>Mohnblume</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_salvia</Cell>
+		<Cell>Sage</Cell>
+		<Cell>Salbei</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_tanacetum</Cell>
+		<Cell>Feverfew</Cell>
+		<Cell>Wucherblume</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_thistle</Cell>
+		<Cell>Thistle</Cell>
+		<Cell>Distel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_urticaria</Cell>
+		<Cell>Nettle</Cell>
+		<Cell>Brennnessel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_valerian</Cell>
+		<Cell>Valerian</Cell>
+		<Cell>Baldrian</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_weed</Cell>
+		<Cell>Weeds</Cell>
+		<Cell>Unkraut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_wormwood</Cell>
+		<Cell>Wormwood</Cell>
+		<Cell>Wermut</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ## Kräuter (getrocknet)## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_herb_dried_belladona</Cell>
+		<Cell>Dried belladonna</Cell>
+		<Cell>Tollkirsche (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_chamomile</Cell>
+		<Cell>Dried chamomile</Cell>
+		<Cell>Kamille (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_comfrey</Cell>
+		<Cell>Dried comfrey</Cell>
+		<Cell>Beinwell (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_dandelion</Cell>
+		<Cell>Dried dandellion</Cell>
+		<Cell>Löwenzahn (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_eyewort</Cell>
+		<Cell>Dried eyebright</Cell>
+		<Cell>Augentrost (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_hypericum</Cell>
+		<Cell>Dried St. John's wort</Cell>
+		<Cell>Johanniskraut (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_marigold</Cell>
+		<Cell>Dried marigold</Cell>
+		<Cell>Ringelblume (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_mint</Cell>
+		<Cell>Dried mint</Cell>
+		<Cell>Minze (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_nightshade</Cell>
+		<Cell>Dried henbane</Cell>
+		<Cell>Bilsenkraut (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_paris</Cell>
+		<Cell>Dried herb paris</Cell>
+		<Cell>Einbeere (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_poppy</Cell>
+		<Cell>Dried poppy</Cell>
+		<Cell>Mohn (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_salvia</Cell>
+		<Cell>Dried sage</Cell>
+		<Cell>Salbei (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_tanacetum</Cell>
+		<Cell>Dried feverfew</Cell>
+		<Cell>Wucherblume (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_thistle</Cell>
+		<Cell>Dried thistle</Cell>
+		<Cell>Distel (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_urticaria</Cell>
+		<Cell>Dried nettle</Cell>
+		<Cell>Nessel (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_valerian</Cell>
+		<Cell>Dried valerian</Cell>
+		<Cell>Baldrian (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_wormwood</Cell>
+		<Cell>Dried wormwood</Cell>
+		<Cell>Wermut (getrocknet)</Cell>
+	</Row>
+</Table>
