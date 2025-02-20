@@ -1921,4 +1921,575 @@
 		<Cell>Dried wormwood</Cell>
 		<Cell>Wermut (getrocknet)</Cell>
 	</Row>
+
+
+
+
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Nacken			                                           -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+    	
+	<Row>
+		<Cell>ui_nm_collarchain01_m01</Cell>
+		<Cell>Mail collar</Cell>
+		<Cell>Nacken - Nackenschutz</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_collarchain02_m01</Cell>
+		<Cell>Mail collar with badge</Cell>
+		<Cell>Nacken - Kettenkragen mit Abzeichen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_collarpadded01_m01</Cell>
+		<Cell>Padded collar</Cell>
+		<Cell>Nacken - Gepolsterter Kragen</Cell>
+	</Row>
+
+
+	<!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Kopf 1 - Helme und Mützen                                 -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+	<Row>
+		<Cell>ui_nm_bascinetopen01_m01</Cell>
+		<Cell>Open bascinet</Cell>
+		<Cell>Kopf I - Offene Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetopen02_m01</Cell>
+		<Cell>Bell-shaped bascinet</Cell>
+		<Cell>Kopf I - Runde Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetopen03_m01</Cell>
+		<Cell>Bascinet with bretache</Cell>
+		<Cell>Kopf I - Beckenhaube mit Nasal</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetopen06_m01</Cell>
+		<Cell>Crested Cuman helmet</Cell>
+		<Cell>Kopf I - Kumanischer Helm mit Mähne</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetopen07_m01</Cell>
+		<Cell>Kyiv helmet</Cell>
+		<Cell>Kopf I - Kyiw-Helm</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetopen08_m01</Cell>
+		<Cell>Bascinet with aventail</Cell>
+		<Cell>Kopf I - Runde Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetopen_twitch</Cell>
+		<Cell>Warhorse bascinet</Cell>
+		<Cell>Kopf I - Schlachtrossbeckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetvisor01_m01</Cell>
+		<Cell>Saxon bascinet</Cell>
+		<Cell>Kopf I - Sächsische Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetvisor02_m01</Cell>
+		<Cell>Hounskull bascinet</Cell>
+		<Cell>Kopf I - Hundsgugel-Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetvisor03_m01</Cell>
+		<Cell>Nuremberg bascinet</Cell>
+		<Cell>Kopf I - NÜrnberger Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetvisor04_m01</Cell>
+		<Cell>Noble bascinet</Cell>
+		<Cell>Kopf I - Edle Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetvisor05_m01</Cell>
+		<Cell>Italian bascinet</Cell>
+		<Cell>Kopf I - Italienische Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetvisor06_m01</Cell>
+		<Cell>Cuman helmet with a mask</Cell>
+		<Cell>Kopf I - Kumanischer Helm mit Maske</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetvisorcapon_m01</Cell>
+		<Cell>Capon's bascinet</Cell>
+		<Cell>Kopf I - Capons Beckenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bascinetvisorcapon_m01_Brunswig</Cell>
+		<Cell>Brunswick's bascinet</Cell>
+		<Cell>Kopf I - Beckenhaube des Brunswiek</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_budovaniLazni_hood</Cell>
+		<Cell>Dirty hood</Cell>
+		<Cell>Kopf I - Schmutzige Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap01_m01</Cell>
+		<Cell>Round cap</Cell>
+		<Cell>Kopf I - Runde Kappe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap02_m01</Cell>
+		<Cell>Frilled cap</Cell>
+		<Cell>Kopf I - Rüschenkappe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap03_m01</Cell>
+		<Cell>Felt cap</Cell>
+		<Cell>Kopf I - Filzmütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap04_m01</Cell>
+		<Cell>Wide straw hat</Cell>
+		<Cell>Kopf I - Breiter Strohhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap05_m01</Cell>
+		<Cell>Baggy cap</Cell>
+		<Cell>Kopf I - Sackmütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap06_m01</Cell>
+		<Cell>Cuman leather hat</Cell>
+		<Cell>Kopf I - Kumanische Ledermütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap07_m01</Cell>
+		<Cell>Chaperon</Cell>
+		<Cell>Kopf I - Chaperon</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap07_mistvan</Cell>
+		<Cell>Lord Toth's chaperon</Cell>
+		<Cell>Kopf I - Toths Chaperon</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap08_m01</Cell>
+		<Cell>Burgundian hat</Cell>
+		<Cell>Kopf I - Burgunderhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap09_m01</Cell>
+		<Cell>Pointy cap</Cell>
+		<Cell>Kopf I - Spitze Mütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap10_m01</Cell>
+		<Cell>Hunting cap</Cell>
+		<Cell>Kopf I - Jagdhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap10_m01_mMikus</Cell>
+		<Cell>Mikush's cap</Cell>
+		<Cell>Kopf I - Mikuschs Hut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap11_m01</Cell>
+		<Cell>Work scarf</Cell>
+		<Cell>Kopf I - Arbeitstuch</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap12_m01</Cell>
+		<Cell>Wanderer's hat</Cell>
+		<Cell>Kopf I - Hut des Wanderers</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap13_m01</Cell>
+		<Cell>Tall Cuman cap</Cell>
+		<Cell>Kopf I - Hohe kumanische Mütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap14_m01</Cell>
+		<Cell>Cap with peacock feathers</Cell>
+		<Cell>Kopf I - Haube mit Pfauenfedern</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap15_m01</Cell>
+		<Cell>Narrow straw hat</Cell>
+		<Cell>Kopf I - Schmaler Strohhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap16_m01</Cell>
+		<Cell>Headscarf</Cell>
+		<Cell>Kopf I - Kopftuch</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap17_m01</Cell>
+		<Cell>Bohemian cap</Cell>
+		<Cell>Kopf I - Böhmische Mütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap18_m01</Cell>
+		<Cell>Nobleman's hat</Cell>
+		<Cell>Kopf I - Edler Hut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap19_m01</Cell>
+		<Cell>Miner's cap</Cell>
+		<Cell>Kopf I - Bergmannmütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap20_m01</Cell>
+		<Cell>Felt cap</Cell>
+		<Cell>Kopf I - Filzmütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap21_m01</Cell>
+		<Cell>Silesian cap</Cell>
+		<Cell>Kopf I - Schlesische Mütze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap22_m01</Cell>
+		<Cell>Chaperon with brooch</Cell>
+		<Cell>Kopf I - Chaperon mit Brosche</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap23_m01</Cell>
+		<Cell>Burgher's hat</Cell>
+		<Cell>Kopf I - Bürgerhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap24_m01</Cell>
+		<Cell>Master huntsman's hat</Cell>
+		<Cell>Kopf I - Hut des Jägermeisters</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap24_mkarlik</Cell>
+		<Cell>Charlie's hat</Cell>
+		<Cell>Kopf I - Kalles Hut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap25_m01</Cell>
+		<Cell>Embroidered chaperon</Cell>
+		<Cell>Kopf I - Besticktes Chaperon</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap26_m01</Cell>
+		<Cell>Fur-lined hat</Cell>
+		<Cell>Kopf I - Pelzgefütterter Hut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap27_m01</Cell>
+		<Cell>Felt hat</Cell>
+		<Cell>Kopf I - Filzhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap28_m01</Cell>
+		<Cell>Jewish hat</Cell>
+		<Cell>Kopf I - Jüdischer Hut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap29_m01</Cell>
+		<Cell>Miner's hat</Cell>
+		<Cell>Kopf I - Bergmannhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap30_m01</Cell>
+		<Cell>Vagrant's hat</Cell>
+		<Cell>Kopf I - Landstreicherhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap31_m01</Cell>
+		<Cell>Straw hat with ribbon</Cell>
+		<Cell>Kopf I - Strohhut mit Band</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap32_m01</Cell>
+		<Cell>Old straw hat</Cell>
+		<Cell>Kopf I - Alter Strohhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap33_m01</Cell>
+		<Cell>Master huntsman's hat</Cell>
+		<Cell>Kopf I - Hut des Jägermeisters</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap34_m01</Cell>
+		<Cell>Noble chaperon</Cell>
+		<Cell>Kopf I - Edles Chaperon</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_capchamberlain_m01</Cell>
+		<Cell>Chamberlain Ulrich's hat</Cell>
+		<Cell>Kopf I - Hut des Kämmerers Ulrich</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cap_huntsman</Cell>
+		<Cell>St. Hubert's hat</Cell>
+		<Cell>Kopf I - Hut des heiligen Hubertus</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_capIstvan_m01_poi</Cell>
+		<Cell>Istvan's chaperon</Cell>
+		<Cell>Kopf I - Istvans Chaperon</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hat_legate</Cell>
+		<Cell>Legate's hat</Cell>
+		<Cell>Kopf I - Mütze des Legaten</Cell>
+	</Row>
+
+	
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Kopf II - Hauben                                          -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+    
+	
+	<Row>
+		<Cell>ui_nm_coifcap01_m01</Cell>
+		<Cell>Coif</Cell>
+		<Cell>Kopf II - Bundhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coiflarge01_m01</Cell>
+		<Cell>Broad battle coif</Cell>
+		<Cell>Kopf II - Breite Kampfbundhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_CoifLarge01_mkhTournament_07_D2_Henry</Cell>
+		<Cell>Tournament padded coif</Cell>
+		<Cell>Kopf II - Gepolsterte Turnierbundhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coiflarge02_m01</Cell>
+		<Cell>Padded hood</Cell>
+		<Cell>Kopf II - Gepolsterte Bundhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coifmail01_m01</Cell>
+		<Cell>Mail coif</Cell>
+		<Cell>Kopf II - Kettenhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coifmail01_m01_Brunswig</Cell>
+		<Cell>Brunswick's chainmail coif</Cell>
+		<Cell>Kopf II - Kettenhaube des Brunswiek</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coifmail02_m01</Cell>
+		<Cell>Mail hood with a coat of arms</Cell>
+		<Cell>Kopf II - Kettengugel mit Wappen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coifsmall01_m01</Cell>
+		<Cell>Padded coif</Cell>
+		<Cell>Kopf II - Gepolsterte Bundhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coifsmall02_m01</Cell>
+		<Cell>Crude padded coif</Cell>
+		<Cell>Kopf II - Derbe, gepolsterte Bundhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_coifsmall03_m01</Cell>
+		<Cell>Padded coif</Cell>
+		<Cell>Kopf II - Gepolsterte Bundhaube</Cell>
+	</Row>
+
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Kopf 3 - Helme		                                       -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+
+
+	<Row>
+		<Cell>ui_nm_kettlehat01_m01</Cell>
+		<Cell>Kettle hat</Cell>
+		<Cell>Kopf III - Eisenhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kettlehat02_m01</Cell>
+		<Cell>Composite kettle hat</Cell>
+		<Cell>Kopf III - Kompositeisenhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kettlehat03_m01</Cell>
+		<Cell>Spined kettle hat</Cell>
+		<Cell>Kopf III - Kantiger Eisenhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_KettleHat03_m01_B2_khTournament_Henry</Cell>
+		<Cell>Tournament kettle hat</Cell>
+		<Cell>Kopf III - Turniereisenhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kettlehat04_m01</Cell>
+		<Cell>Beaked kettle hat</Cell>
+		<Cell>Kopf III - Spitz zulaufender Eisenhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kettlehat05_m01</Cell>
+		<Cell>Bell-shaped kettle hat</Cell>
+		<Cell>Kopf III - Glockenförmiger Eisenhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kettlehat06_m01</Cell>
+		<Cell>Tall kettle hat</Cell>
+		<Cell>Kopf III - Hoher Eisenhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_kettlehat07_m01</Cell>
+		<Cell>Saxon kettle hat</Cell>
+		<Cell>Kopf III - Sächsischer Eisenhut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_skullcap01_m01</Cell>
+		<Cell>Grimey skullcap</Cell>
+		<Cell>Kopf III - Schmutzige Hirnhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_skullcap02_m01</Cell>
+		<Cell>Steel skullcap</Cell>
+		<Cell>Kopf III - Stahlhirnhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_skullcap03_m01</Cell>
+		<Cell>Scaled skullcap</Cell>
+		<Cell>Kopf III - Schuppenhirnhaube</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_skullcap04_m01</Cell>
+		<Cell>Rondel scullcap</Cell>
+		<Cell>Kopf III - Runde Hirnhaube</Cell>
+	</Row>
+
+
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Kopf 4	Gugel	                                           -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+    
+
+	<Row>
+		<Cell>ui_nm_hood01_m01</Cell>
+		<Cell>Simple hood</Cell>
+		<Cell>Kopf IV - Gewöhnliche Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood02_m01</Cell>
+		<Cell>Hemmed hood</Cell>
+		<Cell>Kopf IV - Gesäumte Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood03_m01</Cell>
+		<Cell>Brocade hood</Cell>
+		<Cell>Kopf IV - Brokatgugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood04_m01</Cell>
+		<Cell>Beggar's hood</Cell>
+		<Cell>Kopf IV - Bettlergugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood05_m01</Cell>
+		<Cell>Burgher's hood</Cell>
+		<Cell>Kopf IV - Bürgergugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood06_m01</Cell>
+		<Cell>Embroidered hood</Cell>
+		<Cell>Kopf IV - Bestickte Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood07_m01</Cell>
+		<Cell>Wanderer's hood</Cell>
+		<Cell>Kopf IV - Gugel des Wanderers</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood08_m01</Cell>
+		<Cell>Miner's hood</Cell>
+		<Cell>Kopf IV - Bergarbeitergugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood08_mdrowner</Cell>
+		<Cell>Drowner's hood</Cell>
+		<Cell>Kopf IV - Gugel des Ertrunkenen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood08_mmushrooms</Cell>
+		<Cell>Passionate mushroom-picker's hood</Cell>
+		<Cell>Kopf IV - Gugel des leidenschaftlichen Pilzsammlers</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood09_m01</Cell>
+		<Cell>Cleric's hood</Cell>
+		<Cell>Kopf IV - Klerikale Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood09_mKrizovnik</Cell>
+		<Cell>Knights of the Cross hood</Cell>
+		<Cell>Kopf IV - Gugel der Ritter der Kreuzherren</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood11_m01</Cell>
+		<Cell>Servant's hood</Cell>
+		<Cell>Kopf IV - Dienergugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood12_m01</Cell>
+		<Cell>Noble's hood</Cell>
+		<Cell>Kopf IV - Edle Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hoodAbbot</Cell>
+		<Cell>Abbot's hood</Cell>
+		<Cell>Kopf IV - Gugel des Abts</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hoodcapon_m01</Cell>
+		<Cell>Capon's hood</Cell>
+		<Cell>Kopf IV - Herrn Capons Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hoodgodwin_m01</Cell>
+		<Cell>Black hood</Cell>
+		<Cell>Kopf IV - Schwarze Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood_huntsman</Cell>
+		<Cell>Master huntsman's hood</Cell>
+		<Cell>Kopf IV - Gugel des Jägermeisters</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hoodlegate</Cell>
+		<Cell>Legate's hood</Cell>
+		<Cell>Kopf IV - Gugel des Legaten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hoodrabi</Cell>
+		<Cell>Rabbi's hood</Cell>
+		<Cell>Kopf IV - Kopfbedeckung des Rabbis</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hoodsemine</Cell>
+		<Cell>Semine's hood</Cell>
+		<Cell>Kopf IV - Semins Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hoodsigi</Cell>
+		<Cell>Sigismund's hood</Cell>
+		<Cell>Kopf IV - Sigismunds Gugel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hood_twitch</Cell>
+		<Cell>Cutpurse's hood</Cell>
+		<Cell>Kopf IV - Gugel des Taschendiebs</Cell>
+	</Row>
+
+
+
 </Table>
