@@ -1357,362 +1357,379 @@
 	<Row>
 		<Cell>ui_nm_spurs01_m01</Cell>
 		<Cell>Rowel spurs</Cell>
-		<Cell>Beine I - Sporenrädchen</Cell>
+		<Cell>Sporen - Sporenrädchen</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_spurs01_m02</Cell>
 		<Cell>Hungarian spurs</Cell>
-		<Cell>Beine I - Ungarische Sporen</Cell>
+		<Cell>Sporen - Ungarische Sporen</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_spurs01_m03</Cell>
 		<Cell>Knight's spurs</Cell>
-		<Cell>Beine I - Rittersporen</Cell>
+		<Cell>Sporen - Rittersporen</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_spurs01_m04</Cell>
 		<Cell>Noble's spurs</Cell>
-		<Cell>Beine I - Edle Sporen</Cell>
+		<Cell>Sporen - Edle Sporen</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_ztracenaCest_jezeksSpurs</Cell>
 		<Cell>Jezhek's spurs</Cell>
-		<Cell>Beine I - Jescheks Sporen</Cell>
+		<Cell>Sporen - Jescheks Sporen</Cell>
 	</Row>
 	<!-- ######################### -->
-	<!-- ##  Beine II Schuhe    ## -->
+	<!-- ##  Beine III Schuhe    ## -->
 	<!-- ######################### -->
 	<Row>
 		<Cell>ui_nm_bootsankle01_m01</Cell>
 		<Cell>Work boots</Cell>
-		<Cell>Beine II - Arbeitsstiefel</Cell>
+		<Cell>Beine III - Arbeitsstiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsankle02_m01</Cell>
 		<Cell>Travel boots</Cell>
-		<Cell>Beine II - Reisestiefel</Cell>
+		<Cell>Beine III - Reisestiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsankle03_m01</Cell>
 		<Cell>Vagrant's boots</Cell>
-		<Cell>Beine II - Landstreicherstiefel</Cell>
+		<Cell>Beine III - Landstreicherstiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsankle04_m01</Cell>
 		<Cell>Courtiers boots</Cell>
-		<Cell>Beine II - Höflingsstiefel</Cell>
+		<Cell>Beine III - Höflingsstiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsankle05_m01</Cell>
 		<Cell>Firm boots</Cell>
-		<Cell>Beine II - Feste Stiefel</Cell>
+		<Cell>Beine III - Feste Stiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsankle06_m01</Cell>
 		<Cell>Jester shoes</Cell>
-		<Cell>Beine II - Narrenschuhe</Cell>
+		<Cell>Beine III - Narrenschuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsankle_twitch</Cell>
 		<Cell>Warhorse boots</Cell>
-		<Cell>Beine II - Schlachtrossstiefel</Cell>
+		<Cell>Beine III - Schlachtrossstiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsknee01_m01</Cell>
 		<Cell>Noble boots</Cell>
-		<Cell>Beine II - Edle Stiefel</Cell>
+		<Cell>Beine III - Edle Stiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsknee02_mlichtenstein</Cell>
 		<Cell>Burgher's shoes</Cell>
-		<Cell>Beine II - Bürgerschuhe</Cell>
+		<Cell>Beine III - Bürgerschuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsknee03_m01</Cell>
 		<Cell>Riding boots</Cell>
-		<Cell>Beine II - Reiterstiefel</Cell>
+		<Cell>Beine III - Reiterstiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsknee04_m01</Cell>
 		<Cell>High boots</Cell>
-		<Cell>Beine II - Schaftstiefel</Cell>
+		<Cell>Beine III - Schaftstiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsknee05_m01</Cell>
 		<Cell>Cuman boots</Cell>
-		<Cell>Beine II - Kumanische Stiefel</Cell>
+		<Cell>Beine III - Kumanische Stiefel</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bootsknee_huntsman</Cell>
 		<Cell>Master huntsman's boots</Cell>
-		<Cell>Beine II - Stiefel des Jägermeisters</Cell>
+		<Cell>Beine III - Stiefel des Jägermeisters</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_f_shoes01_m01</Cell>
 		<Cell>Ladies shoes</Cell>
-		<Cell>Beine II - Frauenschuhe</Cell>
+		<Cell>Beine III - Frauenschuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_f_shoes02_m01</Cell>
 		<Cell>Common ladies shoes</Cell>
-		<Cell>Beine II - Gewöhnliche Frauenschuhe</Cell>
+		<Cell>Beine III - Gewöhnliche Frauenschuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_hladAZmar_lambskinShoes</Cell>
 		<Cell>Lambskin shoes</Cell>
-		<Cell>Beine II - Lammlederschuhe</Cell>
+		<Cell>Beine III - Lammlederschuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_shoes01_m01</Cell>
 		<Cell>Simple shoes</Cell>
-		<Cell>Beine II - Gewöhnliche Schuhe</Cell>
+		<Cell>Beine III - Gewöhnliche Schuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_shoes02_m01</Cell>
 		<Cell>Burgher's shoes</Cell>
-		<Cell>Beine II - Bürgerschuhe</Cell>
+		<Cell>Beine III - Bürgerschuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_shoes03_m01</Cell>
 		<Cell>Soft shoes</Cell>
-		<Cell>Beine II - Weiche Schuhe</Cell>
+		<Cell>Beine III - Weiche Schuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_shoes03_mlegate</Cell>
 		<Cell>Legate's shoes</Cell>
-		<Cell>Beine II - Schuhe des Legaten</Cell>
+		<Cell>Beine III - Schuhe des Legaten</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_shoes04_m01</Cell>
 		<Cell>Simple shoes</Cell>
-		<Cell>Beine II - Einfache Schuhe</Cell>
+		<Cell>Beine III - Einfache Schuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_shoes05_m01</Cell>
 		<Cell>Pointed shoes</Cell>
-		<Cell>Beine II - Spitze Schuhe</Cell>
+		<Cell>Beine III - Spitze Schuhe</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_shoes_twitch</Cell>
 		<Cell>Cutpurse's shoes</Cell>
-		<Cell>Beine II - Schuhe des Taschendiebs</Cell>
+		<Cell>Beine III - Schuhe des Taschendiebs</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legspadded05_m01</Cell>
 		<Cell>Riding boots - high</Cell>
-		<Cell>Beine II - Hohe Reiterstiefel</Cell>
+		<Cell>Beine III - Hohe Reiterstiefel</Cell>
 	</Row>
-	<!-- ######################### -->
-	<!-- ## Beine III Panzerung ## -->
-	<!-- ######################### -->
+	    
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Beine II - Brigantinenbeinpanzerung                       -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+    	
 	<Row>
 		<Cell>ui_nm_legsbrigandine01_m01</Cell>
 		<Cell>Old brigandine legs</Cell>
-		<Cell>Beine III - Brigantinenbeinpanzerung (Alte)</Cell>
+		<Cell>Beine II - Brigantinenbeinpanzerung (Alte)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsbrigandine03_m01</Cell>
 		<Cell>Noble brigandine legs</Cell>
-		<Cell>Beine III - Brigantinenbeinpanzerung (Edle)</Cell>
+		<Cell>Beine II - Brigantinenbeinpanzerung (Edle)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsbrigandine04_m01</Cell>
 		<Cell>Laminar knight legs</Cell>
-		<Cell>Beine III - Ritter-Gliederpanzerbeinschutz</Cell>
+		<Cell>Beine II - Ritter-Gliederpanzerbeinschutz</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsbrigandine_twitch</Cell>
 		<Cell>Warhorse plate leg armour</Cell>
-		<Cell>Beine III - Schlachtrossbeinplatten</Cell>
+		<Cell>Beine II - Schlachtrossbeinplatten</Cell>
 	</Row>
+
+
+    <!-- ========================================================= -->
+    <!--                                                           -->
+    <!-- Legs II - Plate Cuisses                                   -->
+    <!--                                                           -->
+    <!-- ========================================================= -->
+    
+
 	<Row>
 		<Cell>ui_nm_legsplate01_m01</Cell>
 		<Cell>Bavarian plate legs</Cell>
-		<Cell>Beine III - Bayrische Beinplatten</Cell>
+		<Cell>Beine II - Bayrische Beinplatten</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsplate02_m01</Cell>
 		<Cell>Milanese plate leg armour</Cell>
-		<Cell>Beine III - Mailänder Beinplatten</Cell>
+		<Cell>Beine II - Mailänder Beinplatten</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsplate03_m01</Cell>
 		<Cell>Noble's plate legs</Cell>
-		<Cell>Beine III - Edle Beinplatten</Cell>
+		<Cell>Beine II - Edle Beinplatten</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsplate04_m01</Cell>
 		<Cell>Half plate legs</Cell>
-		<Cell>Beine III - Halbplatten-Beinschienen</Cell>
+		<Cell>Beine II - Halbplatten-Beinschienen</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsplate05_m01</Cell>
 		<Cell>Saxon plate legs</Cell>
-		<Cell>Beine III - Sächsische Beinplatten</Cell>
+		<Cell>Beine II - Sächsische Beinplatten</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsplate05_m01Brunswig</Cell>
 		<Cell>Brunswick's plate leg armour</Cell>
-		<Cell>Beine III - Beinplatten des Brunswiek</Cell>
+		<Cell>Beine II - Beinplatten des Brunswiek</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_legsplate05_m01Capon</Cell>
 		<Cell>Capon' plate chausses</Cell>
-		<Cell>Beine III - Capons Plattenbeinlinge</Cell>
+		<Cell>Beine II - Capons Plattenbeinlinge</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_ztracenaCest_jezeksLegs</Cell>
 		<Cell>Jezhek's plate chausses</Cell>
-		<Cell>Jescheks Beinplatten</Cell>
+		<Cell>Beine II - Jescheks Beinplatten</Cell>
 	</Row>
-	<!-- ######################### -->
-	<!-- ##   Beine IV Hosen    ## -->
-	<!-- ######################### -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hosejoined01_m01</Cell> -->
-	<!-- <Cell>Hose joined</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Verbundene)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hosejoined01_mdrowner</Cell> -->
-	<!-- <Cell>Drowner's hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge des Ertrunkenen</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hosejoined02_m01</Cell> -->
-	<!-- <Cell>Gartered hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge mit Strumpfbändern</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hosejoined02_m02</Cell> -->
-	<!-- <Cell>Tied jester's hose</Cell> -->
-	<!-- <Cell>Beine IV - Gebundene Narrenhose</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hosejoined02_mlegate</Cell> -->
-	<!-- <Cell>Legate's hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge des Legaten</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hosejoined_twitch</Cell> -->
-	<!-- <Cell>Cutpurse's hose</Cell> -->
-	<!-- <Cell>Beine IV - Hose des Taschendiebs</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hosejoine_hunter</Cell> -->
-	<!-- <Cell>Master huntsman's hose</Cell> -->
-	<!-- <Cell>Beine IV - Hose des Jägermeisters</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hoseloose01_m01</Cell> -->
-	<!-- <Cell>Hose loose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Lose)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hoseseparate01_m01</Cell> -->
-	<!-- <Cell>Simple hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Einfache)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hoseseparate01_m02</Cell> -->
-	<!-- <Cell>Plain troubadours' hose</Cell> -->
-	<!-- <Cell>Beine IV - Einfache Minnesängerhose</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hoseseparate04_m01</Cell> -->
-	<!-- <Cell>Beggar's hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Bettler)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_hoseseparate05_m01</Cell> -->
-	<!-- <Cell>Miner hose</Cell> -->
-	<!-- <Cell>Beine IV - Bergmannsbeinlinge</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded01_m01</Cell> -->
-	<!-- <Cell>Quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded01_m02</Cell> -->
-	<!-- <Cell>Padded chausses</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gepolstert)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded01_m03</Cell> -->
-	<!-- <Cell>Padded chausses</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gepolstert)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded01_m04</Cell> -->
-	<!-- <Cell>Padded chausses</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gepolstert)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded02_m01</Cell> -->
-	<!-- <Cell>Old quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Alte gesteppte Beinlinge</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m01</Cell> -->
-	<!-- <Cell>Noble quilted trousers</Cell> -->
-	<!-- <Cell>Beine IV - Hose (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m02</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m03</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m04</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m05</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m06</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m07</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m08</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m09</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m10</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded03_m11</Cell> -->
-	<!-- <Cell>Noble's quilted hose</Cell> -->
-	<!-- <Cell>Beine IV - Beinlinge (Gesteppte edel)</Cell> -->
-	<!-- </Row> -->
-	<!-- <Row> -->
-	<!-- <Cell>ui_nm_legspadded_godwin</Cell> -->
-	<!-- <Cell>Mended padded leggings</Cell> -->
-	<!-- <Cell>Beine IV - Hose (Gesteppte geflickt)</Cell> -->
-	<!-- </Row> -->
+
+	<!-- ################################# -->
+	<!-- ## Beine I Hosen/Beinlinge		## -->
+	<!-- ################################# -->
+
+	<Row> 
+		<Cell>ui_nm_hosejoined01_m01</Cell> 
+		<Cell>Hose joined</Cell> 
+		<Cell>Beine I - Beinlinge (Verbundene)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hosejoined01_mdrowner</Cell> 
+		<Cell>Drowner's hose</Cell> 
+		<Cell>Beine I - Beinlinge des Ertrunkenen</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hosejoined02_m01</Cell> 
+		<Cell>Gartered hose</Cell> 
+		<Cell>Beine I - Beinlinge mit Strumpfbändern</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hosejoined02_m02</Cell> 
+		<Cell>Tied jester's hose</Cell> 
+		<Cell>Beine I - Gebundene Narrenhose</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hosejoined02_mlegate</Cell> 
+		<Cell>Legate's hose</Cell> 
+		<Cell>Beine I - Beinlinge des Legaten</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hosejoined_twitch</Cell> 
+		<Cell>Cutpurse's hose</Cell> 
+		<Cell>Beine I - Hose des Taschendiebs</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hosejoine_hunter</Cell> 
+		<Cell>Master huntsman's hose</Cell> 
+		<Cell>Beine I - Hose des Jägermeisters</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hoseloose01_m01</Cell> 
+		<Cell>Hose loose</Cell> 
+		<Cell>Beine I - Beinlinge (Lose)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hoseseparate01_m01</Cell> 
+		<Cell>Simple hose</Cell> 
+		<Cell>Beine I - Beinlinge (Einfache)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hoseseparate01_m02</Cell> 
+		<Cell>Plain troubadours' hose</Cell> 
+		<Cell>Beine I - Einfache Minnesängerhose</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hoseseparate04_m01</Cell> 
+		<Cell>Beggar's hose</Cell> 
+		<Cell>Beine I - Beinlinge (Bettler)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_hoseseparate05_m01</Cell> 
+		<Cell>Miner hose</Cell> 
+		<Cell>Beine I - Bergmannsbeinlinge</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded01_m01</Cell> 
+		<Cell>Quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded01_m02</Cell> 
+		<Cell>Padded chausses</Cell> 
+		<Cell>Beine I - Beinlinge (Gepolstert)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded01_m03</Cell> 
+		<Cell>Padded chausses</Cell> 
+		<Cell>Beine I - Beinlinge (Gepolstert)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded01_m04</Cell> 
+		<Cell>Padded chausses</Cell> 
+		<Cell>Beine I - Beinlinge (Gepolstert)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded02_m01</Cell> 
+		<Cell>Old quilted hose</Cell> 
+		<Cell>Beine I - Alte gesteppte Beinlinge</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m01</Cell> 
+		<Cell>Noble quilted trousers</Cell> 
+		<Cell>Beine I - Hose (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m02</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m03</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m04</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m05</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m06</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m07</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m08</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m09</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m10</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded03_m11</Cell> 
+		<Cell>Noble's quilted hose</Cell> 
+		<Cell>Beine I - Beinlinge (Gesteppte edel)</Cell> 
+	</Row> 
+	<Row> 
+		<Cell>ui_nm_legspadded_godwin</Cell> 
+		<Cell>Mended padded leggings</Cell> 
+		<Cell>Beine I - Hose (Gesteppte geflickt)</Cell> 
+	</Row> 
+
+
 	<!-- ######################### -->
 	<!-- ##       Kräuter       ## -->
 	<!-- ######################### -->
