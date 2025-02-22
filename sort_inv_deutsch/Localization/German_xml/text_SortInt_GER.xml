@@ -1352,7 +1352,7 @@
 	<!-- ######################### -->
 	<!-- ##     Beinkleider     ## -->
 	<!-- ######################### -->
-	<!-- ##  Beine I Sporen     ## -->
+	<!-- ##       Sporen        ## -->
 	<!-- ######################### -->
 	<Row>
 		<Cell>ui_nm_spurs01_m01</Cell>
@@ -1379,210 +1379,9 @@
 		<Cell>Jezhek's spurs</Cell>
 		<Cell>Sporen - Jescheks Sporen</Cell>
 	</Row>
-	<!-- ######################### -->
-	<!-- ##  Beine III Schuhe    ## -->
-	<!-- ######################### -->
-	<Row>
-		<Cell>ui_nm_bootsankle01_m01</Cell>
-		<Cell>Work boots</Cell>
-		<Cell>Beine III - Arbeitsstiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsankle02_m01</Cell>
-		<Cell>Travel boots</Cell>
-		<Cell>Beine III - Reisestiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsankle03_m01</Cell>
-		<Cell>Vagrant's boots</Cell>
-		<Cell>Beine III - Landstreicherstiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsankle04_m01</Cell>
-		<Cell>Courtiers boots</Cell>
-		<Cell>Beine III - Höflingsstiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsankle05_m01</Cell>
-		<Cell>Firm boots</Cell>
-		<Cell>Beine III - Feste Stiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsankle06_m01</Cell>
-		<Cell>Jester shoes</Cell>
-		<Cell>Beine III - Narrenschuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsankle_twitch</Cell>
-		<Cell>Warhorse boots</Cell>
-		<Cell>Beine III - Schlachtrossstiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsknee01_m01</Cell>
-		<Cell>Noble boots</Cell>
-		<Cell>Beine III - Edle Stiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsknee02_mlichtenstein</Cell>
-		<Cell>Burgher's shoes</Cell>
-		<Cell>Beine III - Bürgerschuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsknee03_m01</Cell>
-		<Cell>Riding boots</Cell>
-		<Cell>Beine III - Reiterstiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsknee04_m01</Cell>
-		<Cell>High boots</Cell>
-		<Cell>Beine III - Schaftstiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsknee05_m01</Cell>
-		<Cell>Cuman boots</Cell>
-		<Cell>Beine III - Kumanische Stiefel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_bootsknee_huntsman</Cell>
-		<Cell>Master huntsman's boots</Cell>
-		<Cell>Beine III - Stiefel des Jägermeisters</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_f_shoes01_m01</Cell>
-		<Cell>Ladies shoes</Cell>
-		<Cell>Beine III - Frauenschuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_f_shoes02_m01</Cell>
-		<Cell>Common ladies shoes</Cell>
-		<Cell>Beine III - Gewöhnliche Frauenschuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_hladAZmar_lambskinShoes</Cell>
-		<Cell>Lambskin shoes</Cell>
-		<Cell>Beine III - Lammlederschuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_shoes01_m01</Cell>
-		<Cell>Simple shoes</Cell>
-		<Cell>Beine III - Gewöhnliche Schuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_shoes02_m01</Cell>
-		<Cell>Burgher's shoes</Cell>
-		<Cell>Beine III - Bürgerschuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_shoes03_m01</Cell>
-		<Cell>Soft shoes</Cell>
-		<Cell>Beine III - Weiche Schuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_shoes03_mlegate</Cell>
-		<Cell>Legate's shoes</Cell>
-		<Cell>Beine III - Schuhe des Legaten</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_shoes04_m01</Cell>
-		<Cell>Simple shoes</Cell>
-		<Cell>Beine III - Einfache Schuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_shoes05_m01</Cell>
-		<Cell>Pointed shoes</Cell>
-		<Cell>Beine III - Spitze Schuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_shoes_twitch</Cell>
-		<Cell>Cutpurse's shoes</Cell>
-		<Cell>Beine III - Schuhe des Taschendiebs</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legspadded05_m01</Cell>
-		<Cell>Riding boots - high</Cell>
-		<Cell>Beine III - Hohe Reiterstiefel</Cell>
-	</Row>
-	    
-    <!-- ========================================================= -->
-    <!--                                                           -->
-    <!-- Beine II - Brigantinenbeinpanzerung                       -->
-    <!--                                                           -->
-    <!-- ========================================================= -->
-    	
-	<Row>
-		<Cell>ui_nm_legsbrigandine01_m01</Cell>
-		<Cell>Old brigandine legs</Cell>
-		<Cell>Beine II - Brigantinenbeinpanzerung (Alte)</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsbrigandine03_m01</Cell>
-		<Cell>Noble brigandine legs</Cell>
-		<Cell>Beine II - Brigantinenbeinpanzerung (Edle)</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsbrigandine04_m01</Cell>
-		<Cell>Laminar knight legs</Cell>
-		<Cell>Beine II - Ritter-Gliederpanzerbeinschutz</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsbrigandine_twitch</Cell>
-		<Cell>Warhorse plate leg armour</Cell>
-		<Cell>Beine II - Schlachtrossbeinplatten</Cell>
-	</Row>
-
-
-    <!-- ========================================================= -->
-    <!--                                                           -->
-    <!-- Legs II - Plate Cuisses                                   -->
-    <!--                                                           -->
-    <!-- ========================================================= -->
-    
-
-	<Row>
-		<Cell>ui_nm_legsplate01_m01</Cell>
-		<Cell>Bavarian plate legs</Cell>
-		<Cell>Beine II - Bayrische Beinplatten</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsplate02_m01</Cell>
-		<Cell>Milanese plate leg armour</Cell>
-		<Cell>Beine II - Mailänder Beinplatten</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsplate03_m01</Cell>
-		<Cell>Noble's plate legs</Cell>
-		<Cell>Beine II - Edle Beinplatten</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsplate04_m01</Cell>
-		<Cell>Half plate legs</Cell>
-		<Cell>Beine II - Halbplatten-Beinschienen</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsplate05_m01</Cell>
-		<Cell>Saxon plate legs</Cell>
-		<Cell>Beine II - Sächsische Beinplatten</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsplate05_m01Brunswig</Cell>
-		<Cell>Brunswick's plate leg armour</Cell>
-		<Cell>Beine II - Beinplatten des Brunswiek</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_legsplate05_m01Capon</Cell>
-		<Cell>Capon' plate chausses</Cell>
-		<Cell>Beine II - Capons Plattenbeinlinge</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_ztracenaCest_jezeksLegs</Cell>
-		<Cell>Jezhek's plate chausses</Cell>
-		<Cell>Beine II - Jescheks Beinplatten</Cell>
-	</Row>
-
-	<!-- ################################# -->
-	<!-- ## Beine I Hosen/Beinlinge		## -->
-	<!-- ################################# -->
-
+	<!-- ######################## -->
+	<!-- ##    Beine I Hosen   ## -->
+	<!-- ######################## -->
 	<Row> 
 		<Cell>ui_nm_hosejoined01_m01</Cell> 
 		<Cell>Hose joined</Cell> 
@@ -1728,209 +1527,198 @@
 		<Cell>Mended padded leggings</Cell> 
 		<Cell>Beine I - Hose (Gesteppte geflickt)</Cell> 
 	</Row> 
-
-
+	    
 	<!-- ######################### -->
-	<!-- ##       Kräuter       ## -->
-	<!-- ######################### -->
-	<Row>
-		<Cell>ui_nm_herb_belladona</Cell>
-		<Cell>Belladonna</Cell>
-		<Cell>Tollkirsche</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_chamomile</Cell>
-		<Cell>Chamomile</Cell>
-		<Cell>Kamille</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_comfrey</Cell>
-		<Cell>Comfrey</Cell>
-		<Cell>Beinwell</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_dandelion</Cell>
-		<Cell>Dandelion</Cell>
-		<Cell>Löwenzahn</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_elderberry</Cell>
-		<Cell>Elderberry leaves</Cell>
-		<Cell>Holunderblätter</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_eyewort</Cell>
-		<Cell>Eyebright</Cell>
-		<Cell>Augentrost</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_ginger</Cell>
-		<Cell>Ginger</Cell>
-		<Cell>Ingwer</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_hypericum</Cell>
-		<Cell>St. John's wort</Cell>
-		<Cell>Johanniskraut</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_marigold</Cell>
-		<Cell>Marigold</Cell>
-		<Cell>Ringelblume</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_mint</Cell>
-		<Cell>Mint</Cell>
-		<Cell>Minze</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_nightshade</Cell>
-		<Cell>Henbane</Cell>
-		<Cell>Bilsenkraut</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_paris</Cell>
-		<Cell>Herb Paris</Cell>
-		<Cell>Einbeere</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_poppy</Cell>
-		<Cell>Poppy</Cell>
-		<Cell>Mohnblume</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_salvia</Cell>
-		<Cell>Sage</Cell>
-		<Cell>Salbei</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_tanacetum</Cell>
-		<Cell>Feverfew</Cell>
-		<Cell>Wucherblume</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_thistle</Cell>
-		<Cell>Thistle</Cell>
-		<Cell>Distel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_urticaria</Cell>
-		<Cell>Nettle</Cell>
-		<Cell>Brennnessel</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_valerian</Cell>
-		<Cell>Valerian</Cell>
-		<Cell>Baldrian</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_weed</Cell>
-		<Cell>Weeds</Cell>
-		<Cell>Unkraut</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_herb_wormwood</Cell>
-		<Cell>Wormwood</Cell>
-		<Cell>Wermut</Cell>
-	</Row>
-	<!-- ######################### -->
-	<!-- ## Kräuter (getrocknet)## -->
+	<!-- ## Beine II Panzerung  ## -->
 	<!-- ######################### -->
 	<Row>
-		<Cell>ui_nm_herb_dried_belladona</Cell>
-		<Cell>Dried belladonna</Cell>
-		<Cell>Tollkirsche (getrocknet)</Cell>
+		<Cell>ui_nm_legsbrigandine01_m01</Cell>
+		<Cell>Old brigandine legs</Cell>
+		<Cell>Beine II - Brigantinenbeinpanzerung (Alte)</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_chamomile</Cell>
-		<Cell>Dried chamomile</Cell>
-		<Cell>Kamille (getrocknet)</Cell>
+		<Cell>ui_nm_legsbrigandine03_m01</Cell>
+		<Cell>Noble brigandine legs</Cell>
+		<Cell>Beine II - Brigantinenbeinpanzerung (Edle)</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_comfrey</Cell>
-		<Cell>Dried comfrey</Cell>
-		<Cell>Beinwell (getrocknet)</Cell>
+		<Cell>ui_nm_legsbrigandine04_m01</Cell>
+		<Cell>Laminar knight legs</Cell>
+		<Cell>Beine II - Ritter-Gliederpanzerbeinschutz</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_dandelion</Cell>
-		<Cell>Dried dandellion</Cell>
-		<Cell>Löwenzahn (getrocknet)</Cell>
+		<Cell>ui_nm_legsbrigandine_twitch</Cell>
+		<Cell>Warhorse plate leg armour</Cell>
+		<Cell>Beine II - Schlachtrossbeinplatten</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_eyewort</Cell>
-		<Cell>Dried eyebright</Cell>
-		<Cell>Augentrost (getrocknet)</Cell>
+		<Cell>ui_nm_legsplate01_m01</Cell>
+		<Cell>Bavarian plate legs</Cell>
+		<Cell>Beine II - Bayrische Beinplatten</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_hypericum</Cell>
-		<Cell>Dried St. John's wort</Cell>
-		<Cell>Johanniskraut (getrocknet)</Cell>
+		<Cell>ui_nm_legsplate02_m01</Cell>
+		<Cell>Milanese plate leg armour</Cell>
+		<Cell>Beine II - Mailänder Beinplatten</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_marigold</Cell>
-		<Cell>Dried marigold</Cell>
-		<Cell>Ringelblume (getrocknet)</Cell>
+		<Cell>ui_nm_legsplate03_m01</Cell>
+		<Cell>Noble's plate legs</Cell>
+		<Cell>Beine II - Edle Beinplatten</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_mint</Cell>
-		<Cell>Dried mint</Cell>
-		<Cell>Minze (getrocknet)</Cell>
+		<Cell>ui_nm_legsplate04_m01</Cell>
+		<Cell>Half plate legs</Cell>
+		<Cell>Beine II - Halbplatten-Beinschienen</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_nightshade</Cell>
-		<Cell>Dried henbane</Cell>
-		<Cell>Bilsenkraut (getrocknet)</Cell>
+		<Cell>ui_nm_legsplate05_m01</Cell>
+		<Cell>Saxon plate legs</Cell>
+		<Cell>Beine II - Sächsische Beinplatten</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_paris</Cell>
-		<Cell>Dried herb paris</Cell>
-		<Cell>Einbeere (getrocknet)</Cell>
+		<Cell>ui_nm_legsplate05_m01Brunswig</Cell>
+		<Cell>Brunswick's plate leg armour</Cell>
+		<Cell>Beine II - Beinplatten des Brunswiek</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_poppy</Cell>
-		<Cell>Dried poppy</Cell>
-		<Cell>Mohn (getrocknet)</Cell>
+		<Cell>ui_nm_legsplate05_m01Capon</Cell>
+		<Cell>Capon' plate chausses</Cell>
+		<Cell>Beine II - Capons Plattenbeinlinge</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_salvia</Cell>
-		<Cell>Dried sage</Cell>
-		<Cell>Salbei (getrocknet)</Cell>
+		<Cell>ui_nm_ztracenaCest_jezeksLegs</Cell>
+		<Cell>Jezhek's plate chausses</Cell>
+		<Cell>Beine II - Jescheks Beinplatten</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##  Beine III Schuhe   ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_bootsankle01_m01</Cell>
+		<Cell>Work boots</Cell>
+		<Cell>Beine III - Arbeitsstiefel</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_tanacetum</Cell>
-		<Cell>Dried feverfew</Cell>
-		<Cell>Wucherblume (getrocknet)</Cell>
+		<Cell>ui_nm_bootsankle02_m01</Cell>
+		<Cell>Travel boots</Cell>
+		<Cell>Beine III - Reisestiefel</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_thistle</Cell>
-		<Cell>Dried thistle</Cell>
-		<Cell>Distel (getrocknet)</Cell>
+		<Cell>ui_nm_bootsankle03_m01</Cell>
+		<Cell>Vagrant's boots</Cell>
+		<Cell>Beine III - Landstreicherstiefel</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_urticaria</Cell>
-		<Cell>Dried nettle</Cell>
-		<Cell>Nessel (getrocknet)</Cell>
+		<Cell>ui_nm_bootsankle04_m01</Cell>
+		<Cell>Courtiers boots</Cell>
+		<Cell>Beine III - Höflingsstiefel</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_valerian</Cell>
-		<Cell>Dried valerian</Cell>
-		<Cell>Baldrian (getrocknet)</Cell>
+		<Cell>ui_nm_bootsankle05_m01</Cell>
+		<Cell>Firm boots</Cell>
+		<Cell>Beine III - Feste Stiefel</Cell>
 	</Row>
 	<Row>
-		<Cell>ui_nm_herb_dried_wormwood</Cell>
-		<Cell>Dried wormwood</Cell>
-		<Cell>Wermut (getrocknet)</Cell>
+		<Cell>ui_nm_bootsankle06_m01</Cell>
+		<Cell>Jester shoes</Cell>
+		<Cell>Beine III - Narrenschuhe</Cell>
 	</Row>
-
-
-
-
-    <!-- ========================================================= -->
-    <!--                                                           -->
-    <!-- Nacken			                                           -->
-    <!--                                                           -->
-    <!-- ========================================================= -->
-    	
+	<Row>
+		<Cell>ui_nm_bootsankle_twitch</Cell>
+		<Cell>Warhorse boots</Cell>
+		<Cell>Beine III - Schlachtrossstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee01_m01</Cell>
+		<Cell>Noble boots</Cell>
+		<Cell>Beine III - Edle Stiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee02_mlichtenstein</Cell>
+		<Cell>Burgher's shoes</Cell>
+		<Cell>Beine III - Bürgerschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee03_m01</Cell>
+		<Cell>Riding boots</Cell>
+		<Cell>Beine III - Reiterstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee04_m01</Cell>
+		<Cell>High boots</Cell>
+		<Cell>Beine III - Schaftstiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee05_m01</Cell>
+		<Cell>Cuman boots</Cell>
+		<Cell>Beine III - Kumanische Stiefel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_bootsknee_huntsman</Cell>
+		<Cell>Master huntsman's boots</Cell>
+		<Cell>Beine III - Stiefel des Jägermeisters</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_f_shoes01_m01</Cell>
+		<Cell>Ladies shoes</Cell>
+		<Cell>Beine III - Frauenschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_f_shoes02_m01</Cell>
+		<Cell>Common ladies shoes</Cell>
+		<Cell>Beine III - Gewöhnliche Frauenschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_hladAZmar_lambskinShoes</Cell>
+		<Cell>Lambskin shoes</Cell>
+		<Cell>Beine III - Lammlederschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes01_m01</Cell>
+		<Cell>Simple shoes</Cell>
+		<Cell>Beine III - Gewöhnliche Schuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes02_m01</Cell>
+		<Cell>Burgher's shoes</Cell>
+		<Cell>Beine III - Bürgerschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes03_m01</Cell>
+		<Cell>Soft shoes</Cell>
+		<Cell>Beine III - Weiche Schuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes03_mlegate</Cell>
+		<Cell>Legate's shoes</Cell>
+		<Cell>Beine III - Schuhe des Legaten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes04_m01</Cell>
+		<Cell>Simple shoes</Cell>
+		<Cell>Beine III - Einfache Schuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes05_m01</Cell>
+		<Cell>Pointed shoes</Cell>
+		<Cell>Beine III - Spitze Schuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_shoes_twitch</Cell>
+		<Cell>Cutpurse's shoes</Cell>
+		<Cell>Beine III - Schuhe des Taschendiebs</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_legspadded05_m01</Cell>
+		<Cell>Riding boots - high</Cell>
+		<Cell>Beine III - Hohe Reiterstiefel</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ##        Kopf         ## -->
+	<!-- ######################### -->
+	<!-- ##       Nacken        ## -->
+	<!-- ######################### -->
 	<Row>
 		<Cell>ui_nm_collarchain01_m01</Cell>
 		<Cell>Mail collar</Cell>
@@ -1946,22 +1734,18 @@
 		<Cell>Padded collar</Cell>
 		<Cell>Nacken - Gepolsterter Kragen</Cell>
 	</Row>
-
-
-	<!-- ========================================================= -->
-    <!--                                                           -->
-    <!-- Kopf 1 - Helme und Mützen                                 -->
-    <!--                                                           -->
-    <!-- ========================================================= -->
+	<!-- ######################### -->
+	<!-- ## Kopf I Helme/Mützen ## -->
+	<!-- ######################### -->
 	<Row>
 		<Cell>ui_nm_bascinetopen01_m01</Cell>
 		<Cell>Open bascinet</Cell>
-		<Cell>Kopf I - Offene Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Offen)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetopen02_m01</Cell>
 		<Cell>Bell-shaped bascinet</Cell>
-		<Cell>Kopf I - Runde Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Rund)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetopen03_m01</Cell>
@@ -1981,7 +1765,7 @@
 	<Row>
 		<Cell>ui_nm_bascinetopen08_m01</Cell>
 		<Cell>Bascinet with aventail</Cell>
-		<Cell>Kopf I - Runde Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Rund)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetopen_twitch</Cell>
@@ -1991,27 +1775,27 @@
 	<Row>
 		<Cell>ui_nm_bascinetvisor01_m01</Cell>
 		<Cell>Saxon bascinet</Cell>
-		<Cell>Kopf I - Sächsische Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Sächsisch)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetvisor02_m01</Cell>
 		<Cell>Hounskull bascinet</Cell>
-		<Cell>Kopf I - Hundsgugel-Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Hundsgugel)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetvisor03_m01</Cell>
 		<Cell>Nuremberg bascinet</Cell>
-		<Cell>Kopf I - NÜrnberger Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Nürnberger)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetvisor04_m01</Cell>
 		<Cell>Noble bascinet</Cell>
-		<Cell>Kopf I - Edle Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Edel)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetvisor05_m01</Cell>
 		<Cell>Italian bascinet</Cell>
-		<Cell>Kopf I - Italienische Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Italienisch)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetvisor06_m01</Cell>
@@ -2021,7 +1805,7 @@
 	<Row>
 		<Cell>ui_nm_bascinetvisorcapon_m01</Cell>
 		<Cell>Capon's bascinet</Cell>
-		<Cell>Kopf I - Capons Beckenhaube</Cell>
+		<Cell>Kopf I - Beckenhaube (Capon)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bascinetvisorcapon_m01_Brunswig</Cell>
@@ -2031,7 +1815,7 @@
 	<Row>
 		<Cell>ui_nm_budovaniLazni_hood</Cell>
 		<Cell>Dirty hood</Cell>
-		<Cell>Kopf I - Schmutzige Gugel</Cell>
+		<Cell>Kopf I - Gugel (Schmutzig)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_cap01_m01</Cell>
@@ -2239,7 +2023,7 @@
 		<Cell>Kopf I - Mütze des Legaten</Cell>
 	</Row>
 
-	
+
     <!-- ========================================================= -->
     <!--                                                           -->
     <!-- Kopf II - Hauben                                          -->
@@ -3186,14 +2970,9 @@
 		<Cell>Hand wrap</Cell>
 		<Cell>Arme I - Bandage</Cell>
 	</Row>
-
-    <!-- ========================================================= -->
-    <!--                                                           -->
-    <!-- gürtel				                                       -->
-    <!--                                                           -->
-    <!-- ========================================================= -->
-    
-
+	<!-- ######################### -->
+	<!-- ##    Beutel/Gürtel    ## -->
+	<!-- ######################### -->
 	<Row>
 		<Cell>ui_nm_belt_2slot</Cell>
 		<Cell>Hunter's belt</Cell>
@@ -3229,5 +3008,195 @@
 		<Cell>Noble's pouch</Cell>
 		<Cell>Beutel - Edler Beutel</Cell>
 	</Row>
-
+	<!-- ######################### -->
+	<!-- ##       Kräuter       ## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_herb_belladona</Cell>
+		<Cell>Belladonna</Cell>
+		<Cell>Tollkirsche</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_chamomile</Cell>
+		<Cell>Chamomile</Cell>
+		<Cell>Kamille</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_comfrey</Cell>
+		<Cell>Comfrey</Cell>
+		<Cell>Beinwell</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dandelion</Cell>
+		<Cell>Dandelion</Cell>
+		<Cell>Löwenzahn</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_elderberry</Cell>
+		<Cell>Elderberry leaves</Cell>
+		<Cell>Holunderblätter</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_eyewort</Cell>
+		<Cell>Eyebright</Cell>
+		<Cell>Augentrost</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_ginger</Cell>
+		<Cell>Ginger</Cell>
+		<Cell>Ingwer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_hypericum</Cell>
+		<Cell>St. John's wort</Cell>
+		<Cell>Johanniskraut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_marigold</Cell>
+		<Cell>Marigold</Cell>
+		<Cell>Ringelblume</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_mint</Cell>
+		<Cell>Mint</Cell>
+		<Cell>Minze</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_nightshade</Cell>
+		<Cell>Henbane</Cell>
+		<Cell>Bilsenkraut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_paris</Cell>
+		<Cell>Herb Paris</Cell>
+		<Cell>Einbeere</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_poppy</Cell>
+		<Cell>Poppy</Cell>
+		<Cell>Mohnblume</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_salvia</Cell>
+		<Cell>Sage</Cell>
+		<Cell>Salbei</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_tanacetum</Cell>
+		<Cell>Feverfew</Cell>
+		<Cell>Wucherblume</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_thistle</Cell>
+		<Cell>Thistle</Cell>
+		<Cell>Distel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_urticaria</Cell>
+		<Cell>Nettle</Cell>
+		<Cell>Brennnessel</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_valerian</Cell>
+		<Cell>Valerian</Cell>
+		<Cell>Baldrian</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_weed</Cell>
+		<Cell>Weeds</Cell>
+		<Cell>Unkraut</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_wormwood</Cell>
+		<Cell>Wormwood</Cell>
+		<Cell>Wermut</Cell>
+	</Row>
+	<!-- ######################### -->
+	<!-- ## Kräuter (getrocknet)## -->
+	<!-- ######################### -->
+	<Row>
+		<Cell>ui_nm_herb_dried_belladona</Cell>
+		<Cell>Dried belladonna</Cell>
+		<Cell>Tollkirsche (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_chamomile</Cell>
+		<Cell>Dried chamomile</Cell>
+		<Cell>Kamille (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_comfrey</Cell>
+		<Cell>Dried comfrey</Cell>
+		<Cell>Beinwell (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_dandelion</Cell>
+		<Cell>Dried dandellion</Cell>
+		<Cell>Löwenzahn (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_eyewort</Cell>
+		<Cell>Dried eyebright</Cell>
+		<Cell>Augentrost (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_hypericum</Cell>
+		<Cell>Dried St. John's wort</Cell>
+		<Cell>Johanniskraut (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_marigold</Cell>
+		<Cell>Dried marigold</Cell>
+		<Cell>Ringelblume (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_mint</Cell>
+		<Cell>Dried mint</Cell>
+		<Cell>Minze (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_nightshade</Cell>
+		<Cell>Dried henbane</Cell>
+		<Cell>Bilsenkraut (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_paris</Cell>
+		<Cell>Dried herb paris</Cell>
+		<Cell>Einbeere (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_poppy</Cell>
+		<Cell>Dried poppy</Cell>
+		<Cell>Mohn (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_salvia</Cell>
+		<Cell>Dried sage</Cell>
+		<Cell>Salbei (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_tanacetum</Cell>
+		<Cell>Dried feverfew</Cell>
+		<Cell>Wucherblume (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_thistle</Cell>
+		<Cell>Dried thistle</Cell>
+		<Cell>Distel (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_urticaria</Cell>
+		<Cell>Dried nettle</Cell>
+		<Cell>Nessel (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_valerian</Cell>
+		<Cell>Dried valerian</Cell>
+		<Cell>Baldrian (getrocknet)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_herb_dried_wormwood</Cell>
+		<Cell>Dried wormwood</Cell>
+		<Cell>Wermut (getrocknet)</Cell>
+	</Row>
 </Table>
