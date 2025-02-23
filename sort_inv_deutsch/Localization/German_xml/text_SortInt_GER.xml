@@ -3291,7 +3291,7 @@
     </Row>
 
 	<!-- ######################### -->
-	<!-- ## Schmuck Ring     ## -->
+	<!-- ## Schmuck Ring     	## -->
 	<!-- ######################### -->
     <Row>
         <Cell>ui_nm_ring_engraved_gem</Cell>
@@ -3343,6 +3343,70 @@
         <Cell>Cheap ring</Cell>
         <Cell>Ring - Billig</Cell>
     </Row>	
+
+	<!-- ######################### -->
+	<!-- ## Schmuck Kette     	## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_korenarkaZachrana_pavelnasNecklace</Cell>
+        <Cell>Pavlena's necklace</Cell>
+        <Cell>Kette - Pawlenas</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace01_Vajda</Cell>
+        <Cell>Voivode's necklace</Cell>
+        <Cell>Kette - Woiwoden</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace_golden_cross_garnet</Cell>
+        <Cell>Golden cross with garnets</Cell>
+        <Cell>Kette - Goldkreuz mit Granaten</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace_golden_cross_pearl</Cell>
+        <Cell>Golden cross with pearls</Cell>
+        <Cell>Kette - Goldkreuz mit Perlen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace_scapular_letter</Cell>
+        <Cell>Scapular with insignia</Cell>
+        <Cell>Kette - Skapulier mit Insignien</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace_scapular_saint</Cell>
+        <Cell>Scapular with saint</Cell>
+        <Cell>Kette - Heiligenskapulier</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace_scapular_window</Cell>
+        <Cell>Scapular with aperture</Cell>
+        <Cell>Kette - Fensterskapulier</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace_silver_cross_garnet</Cell>
+        <Cell>Silver cross with garnet</Cell>
+        <Cell>Kette - Silberkreuz mit Granat</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace_silver_cross_insignia</Cell>
+        <Cell>Silver cross with insignia</Cell>
+        <Cell>Kette - Silberkreuz mit Insignien</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_necklace_tin_cross</Cell>
+        <Cell>Tin cross</Cell>
+        <Cell>Kette - Zinnkreuz</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_spizovaciOddil_vrbasRewardNecklace</Cell>
+        <Cell>Virgin Mary medallion</Cell>
+        <Cell>Kette - Medaillon mit der Jungfrau Maria</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_svatba_tournamentRewardNecklace</Cell>
+        <Cell>Lord Semine's necklace</Cell>
+        <Cell>Kette - Herrn Semin</Cell>
+    </Row>
 
 	<!-- ######################### -->
 	<!-- ## Dolch			    ## -->
