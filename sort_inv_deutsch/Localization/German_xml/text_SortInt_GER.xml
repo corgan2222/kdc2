@@ -2519,7 +2519,26 @@
 		<Cell>Nimrod's coat</Cell>
 		<Cell>Körper II - Nimrods Mantel</Cell>
 	</Row>
-
+    <Row>
+        <Cell>ui_nm_habit01_m01</Cell>
+        <Cell>Cleric habit</Cell>
+        <Cell>Körper II - Klerikaler Habit</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_habit01_m02</Cell>
+        <Cell>Lord's overcoat</Cell>
+        <Cell>Körper II - Herrenmantel</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_habitlegate_m01</Cell>
+        <Cell>Legate's robe</Cell>
+        <Cell>Körper II - Steppgewand des Legaten</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ztracenaCest_jezeksWaffenrock</Cell>
+        <Cell>Waffenrock of the Lords of Garbow</Cell>
+        <Cell>Körper II - Wappenrock der Herren von Garbow</Cell>
+    </Row>
 
 	<!-- ========================================================= -->
 	<!--                                                           -->
