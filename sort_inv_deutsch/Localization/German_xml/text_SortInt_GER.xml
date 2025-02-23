@@ -345,6 +345,11 @@
 		<Cell>Henry's Bane poison</Cell>
 		<Cell>Gift des Verderbens IV</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_kocovnickaCest_sleepingPotion</Cell>
+        <Cell>Aranka's potion</Cell>
+        <Cell>Gift - Arankas Trank</Cell>
+    </Row>	
 	<Row>
 		<Cell>ui_nm_paralysisPoison</Cell>
 		<Cell>Weak Dollmaker poison</Cell>
