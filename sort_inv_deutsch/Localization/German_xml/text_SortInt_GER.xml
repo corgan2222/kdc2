@@ -2416,6 +2416,16 @@
 		<Cell>Brunswick's brigandine</Cell>
 		<Cell>Körper I - Brigantine des Brunswiek</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_dvojityAgent_petrsCuirass</Cell>
+        <Cell>Peter of Suchotlesky's cuirass</Cell>
+        <Cell>Körper I - Kürass des Peter von Suchotlesky</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ztracenaCest_jezeksCuirass</Cell>
+        <Cell>Jezhek's Brigandine</Cell>
+        <Cell>Körper I - Jescheks Brigantine</Cell>
+    </Row>	
 
 	<!-- ========================================================= -->
 	<!--                                                           -->
