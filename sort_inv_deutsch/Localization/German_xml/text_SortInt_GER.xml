@@ -3580,4 +3580,39 @@
         <Cell>Racing horseshoes</Cell>
         <Cell>Hufeisen - Rennen</Cell>
     </Row>
+	
+	<!-- ######################### -->
+	<!-- ## Reparatursets  	    ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_repairKit_armourSmall</Cell>
+        <Cell>Armourer's kit</Cell>
+        <Cell>Reparaturset - Rüstungsset</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_repairKit_bowyerSmall</Cell>
+        <Cell>Marksman's kit</Cell>
+        <Cell>Reparaturset - Bognerwerkzeuge</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_repairKit_cobblersSmall</Cell>
+        <Cell>Cobbler's kit</Cell>
+        <Cell>Reparaturset - Schusterwerkzeuge</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_repairKit_rifleSmall</Cell>
+        <Cell>Gunsmith's kit</Cell>
+        <Cell>Reparaturset - Büchsenmacherset</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_repairKit_tailorsSmall</Cell>
+        <Cell>Tailor's kit</Cell>
+        <Cell>Reparaturset - Schneiderwerkzeuge</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_repairKit_weaponSmall</Cell>
+        <Cell>Blacksmith's kit</Cell>
+        <Cell>Reparaturset - Schmiedewerkzeuge</Cell>
+    </Row>
+
 </Table>
