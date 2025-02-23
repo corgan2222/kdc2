@@ -445,7 +445,7 @@
 	<Row>
 		<Cell>ui_hm_arrow_normal</Cell>
 		<Cell>Ordinary arrow</Cell>
-		<Cell>Pfeile - Gewöhnlicher Pfeil</Cell>
+		<Cell>Pfeile - Gewöhnlich</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_broken</Cell>
@@ -460,42 +460,42 @@
 	<Row>
 		<Cell>ui_nm_arrow_cutting</Cell>
 		<Cell>Wounding arrow</Cell>
-		<Cell>Pfeile - Wundpfeil</Cell>
+		<Cell>Pfeile - Wunde</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_cutting_enh</Cell>
 		<Cell>Enhanced wounding arrow</Cell>
-		<Cell>Pfeile - Wundpfeil (Verbessert)</Cell>
+		<Cell>Pfeile - Wunde (Verbessert)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_hunter</Cell>
 		<Cell>Hunting arrow</Cell>
-		<Cell>Pfeile - Jagdpfeil</Cell>
+		<Cell>Pfeile - Jagd</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_enh_hunter</Cell>
 		<Cell>Better hunting arrow</Cell>
-		<Cell>Pfeile - Jagdpfeil (Verbessert)</Cell>
+		<Cell>Pfeile - Jagd (Verbessert)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_pierce</Cell>
 		<Cell>Piercing arrow</Cell>
-		<Cell>Pfeile - Spitzpfeil</Cell>
+		<Cell>Pfeile - Spitz</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_enh_pierce</Cell>
 		<Cell>Better piercing arrow</Cell>
-		<Cell>Pfeile - Spitzpfeil (Verbessert)</Cell>
+		<Cell>Pfeile - Spitz (Verbessert)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_precise</Cell>
 		<Cell>Long-range arrow</Cell>
-		<Cell>Pfeile - Langstreckenpfeil</Cell>
+		<Cell>Pfeile - Langstrecke</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_enh_precise</Cell>
 		<Cell>Enhanced long-range arrow</Cell>
-		<Cell>Pfeile - Langstreckenpfeil (Verbessert)</Cell>
+		<Cell>Pfeile - Langstrecke (Verbessert)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_arrow_EXAMPLE</Cell>
@@ -505,8 +505,24 @@
 	<Row>
 		<Cell>ui_nm_arrow_tournament</Cell>
 		<Cell>Tournament arrow</Cell>
-		<Cell>Pfeile - Turnierpfeil</Cell>
+		<Cell>Pfeile - Turnier</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_battle_arrow</Cell>
+        <Cell>Battle arrow</Cell>
+        <Cell>Pfeile - Kampf</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_magickySip_magickaSipka</Cell>
+        <Cell>Arrow from Karel's Head</Cell>
+        <Cell>Pfeile - aus Karels Kopf</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_poi_strelnice_blackArrow</Cell>
+        <Cell>Black arrow</Cell>
+        <Cell>Pfeile - Schwarz</Cell>
+    </Row>
+
 	<!-- ######################### -->
 	<!-- ##       Bolzen        ## -->
 	<!-- ######################### -->
