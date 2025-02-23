@@ -3123,7 +3123,11 @@
 		<Cell>Warhorse brigandine sleeves</Cell>
 		<Cell>Arme II - Schlachtrossarmplatten</Cell>
 	</Row>
-
+	<Row>
+		<Cell>ui_nm_ztracenaCest_jezeksArms</Cell>
+		<Cell>Jezhek's plate pauldrons</Cell>
+		<Cell>Arme II - Jescheks Armschutz</Cell>
+	</Row>
 
 	<!-- ######################### -->
 	<!-- ##    Beutel/Gürtel    ## -->
@@ -3461,6 +3465,11 @@
         <Cell>Cheap ring</Cell>
         <Cell>Ring - Billig</Cell>
     </Row>	
+	<Row>
+		<Cell>ui_nm_vezniNaTroskch_godwinsRing</Cell>
+		<Cell>Godwin's ring</Cell>
+		<Cell>Ring - Godwins</Cell>
+	</Row>	
 
 	<!-- ######################### -->
 	<!-- ## Schmuck Kette     	## -->
@@ -3989,7 +3998,7 @@
     <Row>
         <Cell>ui_nm_shieldKiteCuman</Cell>
         <Cell>Cuman shield</Cell>
-        <Cell>Schild - Kumanische</Cell>
+        <Cell>Schild - Kumanisch</Cell>
     </Row>
     <Row>
         <Cell>ui_nm_shieldKiteCuman_summer</Cell>
