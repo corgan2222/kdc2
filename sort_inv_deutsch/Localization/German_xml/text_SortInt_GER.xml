@@ -322,6 +322,28 @@
 		<Cell>Henry's Buck's Blood</Cell>
 		<Cell>Bockblut-Trank IV</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_potion_fevertonic</Cell>
+        <Cell>Fever tonicum</Cell>
+        <Cell>Fiebertonikum</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_potion_generic</Cell>
+        <Cell>Unknown potion</Cell>
+        <Cell>Unbekannter Trank</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_potion_respec</Cell>
+        <Cell>Lethean Water</Cell>
+        <Cell>Wasser der Lethe</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_potion_steakTartarePerkUnlocker</Cell>
+        <Cell>Strange potion</Cell>
+        <Cell>Seltsamer Trank</Cell>
+    </Row>
+
+
 	<!-- ######################### -->
 	<!-- ##        Gifte        ## -->
 	<!-- ######################### -->
