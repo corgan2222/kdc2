@@ -3363,4 +3363,27 @@
         <Cell>Dolch</Cell>
     </Row>
 
+	<!-- ######################### -->
+	<!-- ## Geschirr    	    ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_basicharness01_m01</Cell>
+        <Cell>Wielun harness</Cell>
+        <Cell>Geschirr - Wielun</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_basicharness02_m01</Cell>
+        <Cell>Mainz harness</Cell>
+        <Cell>Geschirr - Mainzer</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_basicharness03_m01</Cell>
+        <Cell>Hague harness</Cell>
+        <Cell>Geschirr - Haager</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_loot_rattayHarness</Cell>
+        <Cell>Rattay harness</Cell>
+        <Cell>Geschirr - Rattayer</Cell>
+    </Row>	
 </Table>
