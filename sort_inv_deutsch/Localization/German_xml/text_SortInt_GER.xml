@@ -2818,68 +2818,6 @@
     <!--                                                           -->
     <!-- ========================================================= -->
     
-
-	<Row>
-		<Cell>ui_nm_armplate01_m01</Cell>
-		<Cell>Couters with rondel</Cell>
-		<Cell>Arme II - Ellbogenkacheln mit Stahlscheiben</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_armplate02_m01</Cell>
-		<Cell>Plate knight gauntlets</Cell>
-		<Cell>Arme II - Ritterarmschienen</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_armplate03_m01</Cell>
-		<Cell>Couters</Cell>
-		<Cell>Arme II - Ellbogenkacheln</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_armplate04_m01</Cell>
-		<Cell>Nuremberg plate gauntlets</Cell>
-		<Cell>Arme II - Nürnberger Armschienen</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_armplate05_m01</Cell>
-		<Cell>Magdeburg plate arms</Cell>
-		<Cell>Arme II - Magdeburger Armschienen</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_armplate05_m01_Brunswig</Cell>
-		<Cell>Brunswick's plate sleeves</Cell>
-		<Cell>Arme II - Armplatten des Brunswiek</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_brigandinearm01_m01</Cell>
-		<Cell>Plain laminar gauntlets</Cell>
-		<Cell>Arme II - Einfache Brigantinen-Schulterplatten</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_brigandinearm02_m01</Cell>
-		<Cell>Laminar hands with rondels</Cell>
-		<Cell>Arme II - Gliederpanzerhandschuhe mit Stahlscheiben</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_brigandinearm03_m01</Cell>
-		<Cell>Reinforced tempered gauntlets</Cell>
-		<Cell>Arme II - Verstärkte, gehärtete Panzerhandschuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_brigandinearm05_m01</Cell>
-		<Cell>Silesian brigandine sleeves</Cell>
-		<Cell>Arme II - Schlesische Brigantinen-Armschützer</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_brigandinearm06_m01</Cell>
-		<Cell>Noble laminar hands</Cell>
-		<Cell>Arme II - Edle Gliederpanzerhandschuhe</Cell>
-	</Row>
-	<Row>
-		<Cell>ui_nm_brigandinearm_twitch</Cell>
-		<Cell>Warhorse brigandine sleeves</Cell>
-		<Cell>Arme II - Schlachtrossarmplatten</Cell>
-	</Row>
-
 	<Row>
 		<Cell>ui_nm_gauntlets01_m01</Cell>
 		<Cell>Hourglass gauntlets</Cell>
@@ -2970,6 +2908,69 @@
 		<Cell>Hand wrap</Cell>
 		<Cell>Arme I - Bandage</Cell>
 	</Row>
+
+	<Row>
+		<Cell>ui_nm_armplate01_m01</Cell>
+		<Cell>Couters with rondel</Cell>
+		<Cell>Arme II - Ellbogenkacheln mit Stahlscheiben</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate02_m01</Cell>
+		<Cell>Plate knight gauntlets</Cell>
+		<Cell>Arme II - Ritterarmschienen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate03_m01</Cell>
+		<Cell>Couters</Cell>
+		<Cell>Arme II - Ellbogenkacheln</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate04_m01</Cell>
+		<Cell>Nuremberg plate gauntlets</Cell>
+		<Cell>Arme II - Nürnberger Armschienen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate05_m01</Cell>
+		<Cell>Magdeburg plate arms</Cell>
+		<Cell>Arme II - Magdeburger Armschienen</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_armplate05_m01_Brunswig</Cell>
+		<Cell>Brunswick's plate sleeves</Cell>
+		<Cell>Arme II - Armplatten des Brunswiek</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm01_m01</Cell>
+		<Cell>Plain laminar gauntlets</Cell>
+		<Cell>Arme II - Einfache Brigantinen-Schulterplatten</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm02_m01</Cell>
+		<Cell>Laminar hands with rondels</Cell>
+		<Cell>Arme II - Gliederpanzerhandschuhe mit Stahlscheiben</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm03_m01</Cell>
+		<Cell>Reinforced tempered gauntlets</Cell>
+		<Cell>Arme II - Verstärkte, gehärtete Panzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm05_m01</Cell>
+		<Cell>Silesian brigandine sleeves</Cell>
+		<Cell>Arme II - Schlesische Brigantinen-Armschützer</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm06_m01</Cell>
+		<Cell>Noble laminar hands</Cell>
+		<Cell>Arme II - Edle Gliederpanzerhandschuhe</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_brigandinearm_twitch</Cell>
+		<Cell>Warhorse brigandine sleeves</Cell>
+		<Cell>Arme II - Schlachtrossarmplatten</Cell>
+	</Row>
+
+
 	<!-- ######################### -->
 	<!-- ##    Beutel/Gürtel    ## -->
 	<!-- ######################### -->
