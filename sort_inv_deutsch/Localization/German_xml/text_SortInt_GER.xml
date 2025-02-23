@@ -3580,7 +3580,72 @@
         <Cell>Racing horseshoes</Cell>
         <Cell>Hufeisen - Rennen</Cell>
     </Row>
-	
+
+	<!-- ######################### -->
+	<!-- ## Sattel	    	    ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_basicsaddle01_m01</Cell>
+        <Cell>Prague saddle</Cell>
+        <Cell>Sattel - Prag</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_basicsaddle02_m01</Cell>
+        <Cell>Soldier's saddle</Cell>
+        <Cell>Sattel - Soldat</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_basicsaddle03_m01</Cell>
+        <Cell>Norman saddle</Cell>
+        <Cell>Sattel - Normannisch</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_eastsaddle01_m01</Cell>
+        <Cell>Lovari saddle</Cell>
+        <Cell>Sattel - Lovara</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_eastsaddle02_m01</Cell>
+        <Cell>Moglen saddle</Cell>
+        <Cell>Sattel - Moglen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_horseTrading_cheapSaddle</Cell>
+        <Cell>Moglen saddle of poor quality leather</Cell>
+        <Cell>Sattel - Moglen aus minderwertigem Leder</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblesaddle01_m01</Cell>
+        <Cell>Bravante saddle</Cell>
+        <Cell>Sattel - Brabant</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblesaddle02_m01</Cell>
+        <Cell>Bridon saddle</Cell>
+        <Cell>Sattel - Bridona</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblesaddle03_m01</Cell>
+        <Cell>Dragon saddle</Cell>
+        <Cell>Sattel - Drache</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_warsaddle01_m01</Cell>
+        <Cell>Hungarian saddle</Cell>
+        <Cell>Sattel - Ungarisch </Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_warsaddle02_m01</Cell>
+        <Cell>Transylvanian knight's saddle</Cell>
+        <Cell>Sattel - Siebenbürger Ritter</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_warsaddle03_m01</Cell>
+        <Cell>Cracowian saddle</Cell>
+        <Cell>Sattel - Krakauer</Cell>
+    </Row>	
+
+
 	<!-- ######################### -->
 	<!-- ## Reparatursets  	    ## -->
 	<!-- ######################### -->
