@@ -433,6 +433,12 @@
 		<Cell>Henry's Lion perfume</Cell>
 		<Cell>Löwen Parfüm IV</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_perfumeStink</Cell>
+        <Cell>Stinking perfume</Cell>
+        <Cell>Parfüm - Stinkendes Parfüm</Cell>
+    </Row>
+
 	<!-- ######################### -->
 	<!-- ##       Pfeile        ## -->
 	<!-- ######################### -->
