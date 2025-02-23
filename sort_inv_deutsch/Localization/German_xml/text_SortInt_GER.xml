@@ -2107,6 +2107,11 @@
 		<Cell>Padded coif</Cell>
 		<Cell>Kopf II - Gepolsterte Bundhaube</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_wreath_twitch</Cell>
+        <Cell>Alluring wreath</Cell>
+        <Cell>Kopf II - Bezaubernder Kranz</Cell>
+    </Row>
 
     <!-- ========================================================= -->
     <!--                                                           -->
