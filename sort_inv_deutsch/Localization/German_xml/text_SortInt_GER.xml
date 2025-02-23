@@ -3284,4 +3284,58 @@
         <Cell>Silver brooch enamelled</Cell>
         <Cell>Brosche - Emaille-Silber</Cell>
     </Row>
+
+	<!-- ######################### -->
+	<!-- ## Schmuck Ring     ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_ring_engraved_gem</Cell>
+        <Cell>Engraved gemstone ring</Cell>
+        <Cell>Ring - Gravierter Edelstein</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ring_gem</Cell>
+        <Cell>Gemstone ring</Cell>
+        <Cell>Ring - Edelstein</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ring_golden_cross</Cell>
+        <Cell>Golden cross ring</Cell>
+        <Cell>Ring - mit goldenem Kreuz</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ring_golden_large</Cell>
+        <Cell>Solid gold ring</Cell>
+        <Cell>Ring - Massives Gold</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ring_poi_cistenaStudanka</Cell>
+        <Cell>Old ring</Cell>
+        <Cell>Ring - Alt</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ring_silver_engraved</Cell>
+        <Cell>Engraved silver ring</Cell>
+        <Cell>Ring - Graviertes Silber</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ring_silver_gem</Cell>
+        <Cell>Gemstone silver ring</Cell>
+        <Cell>Ring - Silber mit Edelstein</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_spizovaciOddil_ringFromPlagueGrave</Cell>
+        <Cell>Ordinary ring</Cell>
+        <Cell>Ring - Gewöhnliche</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_svatba_ringFromChamberlein</Cell>
+        <Cell>Chamberlain's ring</Cell>
+        <Cell>Ring - Kämmerer</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_svatba_tournamentCheapRing</Cell>
+        <Cell>Cheap ring</Cell>
+        <Cell>Ring - Billig</Cell>
+    </Row>	
 </Table>
