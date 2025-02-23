@@ -1527,7 +1527,12 @@
 		<Cell>Mended padded leggings</Cell> 
 		<Cell>Beine I - Hose (Gesteppte geflickt)</Cell> 
 	</Row> 
-	    
+    <Row>
+        <Cell>ui_nm_poi_vodnik_vodnikovyKalhoty</Cell>
+        <Cell>Water goblin's hose</Cell>
+        <Cell>Beine I - Hose des Wasserkobolds</Cell>
+    </Row>	   
+
 	<!-- ######################### -->
 	<!-- ## Beine II Panzerung  ## -->
 	<!-- ######################### -->
