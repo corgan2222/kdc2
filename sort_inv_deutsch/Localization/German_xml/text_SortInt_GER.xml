@@ -1065,8 +1065,14 @@
 	<Row>
 		<Cell>ui_nm_svatba_longswordTourname</Cell>
 		<Cell>Tournament practice sword</Cell>
-		<Cell>Lang - Übungsschwer (Turnier)</Cell>
+		<Cell>Lang - Übungsschwert (Turnier)</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_r_poustevnik_swordForSemin</Cell>
+        <Cell>The Hermit's Sword</Cell>
+        <Cell>Lang - Schwert des Einsiedlers</Cell>
+    </Row>
+
 	<!-- ######################### -->
 	<!-- ##         Äxte        ## -->
 	<!-- ######################### -->
