@@ -3251,4 +3251,37 @@
         <Cell>Brille - Parler </Cell>
     </Row>
 
+	<!-- ######################### -->
+	<!-- ## Schmuck Brosche     ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_brooch_brass_inscription</Cell>
+        <Cell>Brass brooch with lettering</Cell>
+        <Cell>Brosche - Messing mit Schriftzug</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_brooch_golden_erb</Cell>
+        <Cell>Golden heraldic brooch</Cell>
+        <Cell>Brosche - Gold mit Wappen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_brooch_golden_letter</Cell>
+        <Cell>Golden initial brooch</Cell>
+        <Cell>Brosche - Gold mit Initialen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_brooch_inlaid</Cell>
+        <Cell>Women's brooche</Cell>
+        <Cell>Brosche - Frauen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_brooch_silver</Cell>
+        <Cell>Silver brooch</Cell>
+        <Cell>Brosche - Silber</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_brooch_silver_enamel</Cell>
+        <Cell>Silver brooch enamelled</Cell>
+        <Cell>Brosche - Emaille-Silber</Cell>
+    </Row>
 </Table>
