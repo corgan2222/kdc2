@@ -1596,6 +1596,17 @@
 		<Cell>Jezhek's plate chausses</Cell>
 		<Cell>Beine II - Jescheks Beinplatten</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_legsplate06_m01</Cell>
+        <Cell>Poleyn</Cell>
+        <Cell>Beine II - Kniebuckel</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_legsplate07_m01</Cell>
+        <Cell>Leaf-shaped couters</Cell>
+        <Cell>Beine II - Blattförmiger Kniebuckel</Cell>
+    </Row>
+
 	<!-- ######################### -->
 	<!-- ##  Beine III Schuhe   ## -->
 	<!-- ######################### -->
