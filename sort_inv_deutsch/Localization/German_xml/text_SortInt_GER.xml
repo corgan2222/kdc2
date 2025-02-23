@@ -2180,7 +2180,41 @@
 		<Cell>Rondel scullcap</Cell>
 		<Cell>Kopf III - Runde Hirnhaube</Cell>
 	</Row>
-
+    <Row>
+        <Cell>ui_nm_nebakovPruzkum_Cap21_m01_C_nebakClue</Cell>
+        <Cell>Cap from Nebakov</Cell>
+        <Cell>Kopf III - Hut aus Nebakov</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_poi_luffy_strawhat</Cell>
+        <Cell>Strange strawhat</Cell>
+        <Cell>Kopf III - Seltsamer Strohhut</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_taboryTrosecko_karlikCap</Cell>
+        <Cell>Handsome Charlie's hat</Cell>
+        <Cell>Kopf III - Hut des Hübschen Kalle</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_vrah_murderersHelmet</Cell>
+        <Cell>Killer's helmet</Cell>
+        <Cell>Kopf III - Helm des Mörders</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_zbranePanaSemina_sukHelmet</Cell>
+        <Cell>Gnarly's old helmet</Cell>
+        <Cell>Kopf III - Knorrens alter Helm</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ztracenaCest_jezeksHelmet</Cell>
+        <Cell>Jezhek's helmet</Cell>
+        <Cell>Kopf III - Jescheks Helm</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ztratyANalezy_strawHat</Cell>
+        <Cell>Windfall straw hat</Cell>
+        <Cell>Kopf III - Weggewehter Strohhut</Cell>
+    </Row>
 
     <!-- ========================================================= -->
     <!--                                                           -->
