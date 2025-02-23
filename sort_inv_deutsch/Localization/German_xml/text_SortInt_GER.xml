@@ -3338,4 +3338,29 @@
         <Cell>Cheap ring</Cell>
         <Cell>Ring - Billig</Cell>
     </Row>	
+
+	<!-- ######################### -->
+	<!-- ## Dolch			    ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_alias_loot_daggerOfAstarte</Cell>
+        <Cell>Dagger of Astarte</Cell>
+        <Cell>Dolch - Astarte</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_alias_loot_occamsRazor</Cell>
+        <Cell>Ockham's Razor</Cell>
+        <Cell>Dolch - Ockhams Rasiermesser</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_daggerBruncvik</Cell>
+        <Cell>Brunswick's dagger</Cell>
+        <Cell>Dolch - Brunswiek</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_daggerCommon</Cell>
+        <Cell>Dagger</Cell>
+        <Cell>Dolch</Cell>
+    </Row>
+
 </Table>
