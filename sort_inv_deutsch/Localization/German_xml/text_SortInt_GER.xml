@@ -3839,4 +3839,248 @@
         <Cell>Reparaturset - Schmiedewerkzeuge</Cell>
     </Row>
 
+	<!-- ######################### -->
+	<!-- ## Schilde     	    ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_in_zbranePanaSemina_sukShield</Cell>
+        <Cell>Gnarly's shield</Cell>
+        <Cell>Schild - Knorren</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ShieldHeater_Tournament</Cell>
+        <Cell>Kuttenberg heater shield</Cell>
+        <Cell>Schild - Kuttenberger Dreieck</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_dvojityAgent_petrsShield</Cell>
+        <Cell>Lord of Suchotlesky heater shield</Cell>
+        <Cell>Schild - Dreieck des Herrn von Suchotlesky</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_nebakovPruzkum_lordsOfLeipaShield</Cell>
+        <Cell>Lords of Leipa shield</Cell>
+        <Cell>Schild - des Leipa-Adels</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldHeater</Cell>
+        <Cell>Heater shield</Cell>
+        <Cell>Schild - Dreieck</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldHeater_holohlav</Cell>
+        <Cell>Lord of Pisek knight shield</Cell>
+        <Cell>Schild - Ritter des Herrn Pisek</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldHeater_lipa</Cell>
+        <Cell>Lords of Leipa heater shield</Cell>
+        <Cell>Schild - Dreieck der Herren von Leipa</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldHeater_pisek</Cell>
+        <Cell>Lord Pisek heater shield</Cell>
+        <Cell>Schild - Dreieck des Herrn Pisek</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldHeater_prague</Cell>
+        <Cell>City of Prague heater shield</Cell>
+        <Cell>Schild - Prager Dreieck</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldHeater_sigi</Cell>
+        <Cell>Hungarian heater shield</Cell>
+        <Cell>Schild - Ungarisches Dreieck</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldHeater_zavis</Cell>
+        <Cell>Sir Zavish heater shield</Cell>
+        <Cell>Schild - Dreieck des Herrn Zavish</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite</Cell>
+        <Cell>Knight shield</Cell>
+        <Cell>Schild - Ritter</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKiteCuman</Cell>
+        <Cell>Cuman shield</Cell>
+        <Cell>Schild - Kumanische</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKiteCuman_summer</Cell>
+        <Cell>Shield of Summer</Cell>
+        <Cell>Schild - Sommer</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKiteTraining</Cell>
+        <Cell>Practice shield</Cell>
+        <Cell>Schild - Übung</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_autumn</Cell>
+        <Cell>Shield of Autumn</Cell>
+        <Cell>Schild - Herbst</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_bergov</Cell>
+        <Cell>Von Bergow knight shield</Cell>
+        <Cell>Schild - Ritter des Herrn von Bergow</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_cech_A</Cell>
+        <Cell>Cobblers' Guild knight shield</Cell>
+        <Cell>Schild - Ritter der Schustergilde</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_cech_B</Cell>
+        <Cell>Apothecary guild knight shield</Cell>
+        <Cell>Schild - Ritter der Apothekergilde</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_cech_C</Cell>
+        <Cell>Saddler guild knight shield</Cell>
+        <Cell>Schild - Ritter der Sattlergilde</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_cech_D</Cell>
+        <Cell>Butcher guild knight shield</Cell>
+        <Cell>Schild - Ritter der Metzgergilde</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_cech_E</Cell>
+        <Cell>Painter's Guild knight shield</Cell>
+        <Cell>Schild - Ritter der Malergilde</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_cech_F</Cell>
+        <Cell>Baker guild knight shield</Cell>
+        <Cell>Schild - Ritter der Bäckergilde</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_cimburk</Cell>
+        <Cell>Lords of Zimburg knight shield</Cell>
+        <Cell>Schild - Ritter der Herren von Cimburg</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_holohlav</Cell>
+        <Cell>Lords of Holohlavy heater shield</Cell>
+        <Cell>Schild - Wappen der Herren von Holohlavy</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_kuttenberg</Cell>
+        <Cell>Kuttenberg knight shield</Cell>
+        <Cell>Schild - Kuttenberger Ritter</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_nebak</Cell>
+        <Cell>Lords of Nebakov kite shield</Cell>
+        <Cell>Schild - Mandel der Herren von Nebakov</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_polner</Cell>
+        <Cell>Lord Polner heater shield</Cell>
+        <Cell>Schild - Dreieck des Herrn Polner</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_prague</Cell>
+        <Cell>Old Town of Prague knight shield</Cell>
+        <Cell>Schild - Prager Ritter</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_redStar</Cell>
+        <Cell>Order of the cross knight shield</Cell>
+        <Cell>Schild - Ritter der Kreuzherren</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_ruthard</Cell>
+        <Cell>Lord Ruthard knight shield</Cell>
+        <Cell>Schild - Ritter des Herrn Ruthard</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_semin</Cell>
+        <Cell>Lords of Semine knight shield</Cell>
+        <Cell>Schild - Ritter der Herren von Semin</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_sigi</Cell>
+        <Cell>Hungarian knight shield</Cell>
+        <Cell>Schild - Ungarischer Ritter</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_spring</Cell>
+        <Cell>Shield of Spring</Cell>
+        <Cell>Schild - Frühling</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_twitch</Cell>
+        <Cell>Warhorse shield</Cell>
+        <Cell>Schild - Warhorse</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldKite_vavak</Cell>
+        <Cell>Lords of Hradetz knight shield</Cell>
+        <Cell>Schild - Ritter des Neuhaus-Adels</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldPavise_bergov</Cell>
+        <Cell>Trosky pavese</Cell>
+        <Cell>Schild - Pavese Trosky</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldPavise_half</Cell>
+        <Cell>Halved pavese</Cell>
+        <Cell>Schild - Pavese Halb</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldPavise_hungary</Cell>
+        <Cell>Hungarian pavese</Cell>
+        <Cell>Schild - Pavese Ungarisch</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldPavise_painted</Cell>
+        <Cell>Painted pavese</Cell>
+        <Cell>Schild - Pavese Bemalt</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldPavise_prague</Cell>
+        <Cell>City of Prague pavese</Cell>
+        <Cell>Schild - Pavese Prag</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldPavise_suchdol</Cell>
+        <Cell>Suchdol pavese</Cell>
+        <Cell>Schild - Pavese Sukdol</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldPavise_winter</Cell>
+        <Cell>Shield of Winter</Cell>
+        <Cell>Schild - Winter</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldRemnants</Cell>
+        <Cell>Broken shield</Cell>
+        <Cell>Schild - Zerstört</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_shieldRemnantsPagan</Cell>
+        <Cell>Broken round shield</Cell>
+        <Cell>Schild - Zerstörter Runds</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_tournament_shieldHeaterGold</Cell>
+        <Cell>Golden tournament shield</Cell>
+        <Cell>Schild - Turnier Gold</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_tournament_shieldHeaterRed</Cell>
+        <Cell>Red tournament shield</Cell>
+        <Cell>Schild - Turnier Rot</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ztracenaCest_lordsOfHolohlavShield</Cell>
+        <Cell>Lord of Holohlavy heater shield</Cell>
+        <Cell>Schild - Dreieck des Herrn von Holohlavy</Cell>
+    </Row>	
+
 </Table>
