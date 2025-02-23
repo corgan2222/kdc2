@@ -3825,7 +3825,69 @@
         <Cell>Lords of Holohlavy caparison</Cell>
         <Cell>Schabracke - Herr von Holohlavy</Cell>
     </Row>
-
+	<!-- ######################### -->
+	<!-- ## Zaumzeug	  	    ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_basicbridle01_m01</Cell>
+        <Cell>Soft leather bridle</Cell>
+        <Cell>Zaumzeug - Leder weich</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_horseTrading_cheapBridle</Cell>
+        <Cell>Damaged leather bridle</Cell>
+        <Cell>Zaumzeug - Leder beschädigt</Cell>
+    </Row>	
+    <Row>
+        <Cell>ui_nm_basicbridle02_m01</Cell>
+        <Cell>Bridle with plating</Cell>
+        <Cell>Zaumzeug - mit Plattierung</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_basicbridle03_m01</Cell>
+        <Cell>Noseband bridle</Cell>
+        <Cell>Zaumzeug - mit Nasenriemen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_eastbridle02_m01</Cell>
+        <Cell>Sharukan briddle</Cell>
+        <Cell>Zaumzeug - Scharukan</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_loot_rattayBridle</Cell>
+        <Cell>Rattay bridle</Cell>
+        <Cell>Zaumzeug - Rattayer</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblebridle01_m01</Cell>
+        <Cell>Bridle of the Holy Roman Empire</Cell>
+        <Cell>Zaumzeug - aus dem Heiligen Römischen Reich</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblebridle02_m01</Cell>
+        <Cell>Tournament bridle</Cell>
+        <Cell>Zaumzeug - Turnier</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_warchanfron01_m01</Cell>
+        <Cell>Dragon chanfron</Cell>
+        <Cell>Zaumzeug - Rossstirn Drachen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_warchanfron02_m01</Cell>
+        <Cell>Milanese chanfron</Cell>
+        <Cell>Zaumzeug - Rossstirn Mailand</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_warchanfron03_m01</Cell>
+        <Cell>Tyrolian chanfron</Cell>
+        <Cell>Zaumzeug - Rossstirn Tiroler</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_zranenyLovci_pepikHorseBriddle</Cell>
+        <Cell>Pepik's old bridle</Cell>
+        <Cell>Zaumzeug - Pepiks altes Zaumzeug</Cell>
+    </Row>
 
 	<!-- ######################### -->
 	<!-- ## Reparatursets  	    ## -->
