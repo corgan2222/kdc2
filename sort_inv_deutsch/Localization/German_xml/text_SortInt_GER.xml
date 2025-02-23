@@ -3391,4 +3391,33 @@
         <Cell>Rattay harness</Cell>
         <Cell>Geschirr - Rattayer</Cell>
     </Row>	
+
+	<!-- ######################### -->
+	<!-- ## Hufeisen    	    ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_horseshoeFarmer</Cell>
+        <Cell>Farmer's horseshoes</Cell>
+        <Cell>Hufeisen - Bauern</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_horseshoeMilitary</Cell>
+        <Cell>Knight's horseshoes</Cell>
+        <Cell>Hufeisen - Ritter</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_horseshoeNoble</Cell>
+        <Cell>Nobleman's horseshoes</Cell>
+        <Cell>Hufeisen - Edel</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_horseshoeNomad</Cell>
+        <Cell>Lovarian horseshoes</Cell>
+        <Cell>Hufeisen - Lovara</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_horseshoeRacing</Cell>
+        <Cell>Racing horseshoes</Cell>
+        <Cell>Hufeisen - Rennen</Cell>
+    </Row>
 </Table>
