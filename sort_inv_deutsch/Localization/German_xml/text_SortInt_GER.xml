@@ -512,32 +512,32 @@
 	<Row>
 		<Cell>ui_nm_bolt_cutting</Cell>
 		<Cell>Wounding bolt</Cell>
-		<Cell>Bolzen - Wundbolzen</Cell>
+		<Cell>Bolzen - Wunde</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bolt_enh_cutting</Cell>
 		<Cell>Enhanced wounding bolt</Cell>
-		<Cell>Bolzen - Wundbolzen (Verbessert)</Cell>
+		<Cell>Bolzen - Wunde (Verbessert)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bolt_hunting</Cell>
 		<Cell>Hunting bolt</Cell>
-		<Cell>Bolzen - Jagdbolzen</Cell>
+		<Cell>Bolzen - Jagd</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bolt_enh_hunting</Cell>
 		<Cell>Enhanced hunting bolt</Cell>
-		<Cell>Bolzen - Jagdbolzen (Verbessert)</Cell>
+		<Cell>Bolzen - Jagd (Verbessert)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bolt_piercing</Cell>
 		<Cell>Piercing bolt</Cell>
-		<Cell>Bolzen - Spitzbolzen</Cell>
+		<Cell>Bolzen - Spitz</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bolt_enh_piercing</Cell>
 		<Cell>Enhanced piercing bolt</Cell>
-		<Cell>Bolzen - Spitzbolzen (Verbessert)</Cell>
+		<Cell>Bolzen - Spitz (Verbessert)</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bolt_enh_precise</Cell>
@@ -557,13 +557,18 @@
 	<Row>
 		<Cell>ui_nm_bolt_precise</Cell>
 		<Cell>Marksman's bolt</Cell>
-		<Cell>Bolzen - Schützenbolzen</Cell>
+		<Cell>Bolzen - Schütze</Cell>
 	</Row>
 	<Row>
 		<Cell>ui_nm_bolt_tournament</Cell>
 		<Cell>Tournament bolt</Cell>
-		<Cell>Bolzen - Turnierbolzen</Cell>
+		<Cell>Bolzen - Turnier</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_battle_bolt</Cell>
+        <Cell>Battle bolt</Cell>
+        <Cell>Bolzen - Kampf</Cell>
+    </Row>	
 	<!-- ######################### -->
 	<!-- ##       Kugeln        ## -->
 	<!-- ######################### -->
