@@ -3645,6 +3645,165 @@
         <Cell>Sattel - Krakauer</Cell>
     </Row>	
 
+	<!-- ######################### -->
+	<!-- ## Schabracke    	    ## -->
+	<!-- ######################### -->
+    <Row>
+        <Cell>ui_nm_caparison01_Brunswig</Cell>
+        <Cell>Brunswick's caparison</Cell>
+        <Cell>Schabracke - Brunswiek</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison01_m01</Cell>
+        <Cell>Plain tourney caparison</Cell>
+        <Cell>Schabracke - Turnier einfach</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison02_m01</Cell>
+        <Cell>Executioner's caparison simple</Cell>
+        <Cell>Schabracke - Henker einfach</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison03_Leipa</Cell>
+        <Cell>Caparison of the Lords of Leipa</Cell>
+        <Cell>Schabracke - Herr von Leipa</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison03_Ruthard</Cell>
+        <Cell>Caparison of the Lord Ruthard</Cell>
+        <Cell>Schabracke - Herr Ruthard</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison03_Semin</Cell>
+        <Cell>Caparison of the Lord of Semine</Cell>
+        <Cell>Schabracke - Herr von Semin</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison03_m01</Cell>
+        <Cell>Caparison á la peytral simple</Cell>
+        <Cell>Schabracke - mit einfachem Fürbug</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison04_m01</Cell>
+        <Cell>Caparison á la crupper simple</Cell>
+        <Cell>Schabracke - mit einfachem Schweifriemen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison05_m01</Cell>
+        <Cell>Halved caparison crenellated</Cell>
+        <Cell>Schabracke - Halb mit Zinnenrand</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_caparison_pros</Cell>
+        <Cell>Skalitz caparison</Cell>
+        <Cell>Schabracke - Skalitz</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison01_m01</Cell>
+        <Cell>Tournament caparison decorated</Cell>
+        <Cell>Schabracke - Turnier verziert</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison01_mJezek</Cell>
+        <Cell>Lords of Holohlavy caparison</Cell>
+        <Cell>Schabracke - Herr von Holohlavy</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison01_mLeipa</Cell>
+        <Cell>Tournament caparison in colours of Leipa</Cell>
+        <Cell>Schabracke - Turnier in den Farben von Leipa</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison02_m01</Cell>
+        <Cell>Caparison decorated</Cell>
+        <Cell>Schabracke - verziert</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison02_mLeipa</Cell>
+        <Cell>Caparison sewn in Leipa colours</Cell>
+        <Cell>Schabracke - in den Farben von Leipa</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison02_mMarkvart</Cell>
+        <Cell>Caparison sewn in Aulitz colours</Cell>
+        <Cell>Schabracke - Herr von Aulitz.</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison03_m01</Cell>
+        <Cell>Executioner's caparison decorated</Cell>
+        <Cell>Schabracke - Henkers verziert</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison03_mLeipa</Cell>
+        <Cell>Executioner’s caparison in colours of Leipa</Cell>
+        <Cell>Schabracke - Henkers in den Farben von Leipa</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison04_m01</Cell>
+        <Cell>Executioner's caparison with harness</Cell>
+        <Cell>Schabracke - Henkers mit Geschirr</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison04_mMarkvart</Cell>
+        <Cell>Markvart von Aulitz's caparison</Cell>
+        <Cell>Schabracke - Herr Markwart von Aulitz</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison05_m01</Cell>
+        <Cell>Halved caparison decorated</Cell>
+        <Cell>Schabracke - Halb verziert</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison06_m01</Cell>
+        <Cell>Caparison á la crupper decorated</Cell>
+        <Cell>Schabracke - mit dekoriertem Schweifriemen</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison07_m01</Cell>
+        <Cell>Executioner’s caparison with harness</Cell>
+        <Cell>Schabracke - Henkers mit Geschirr</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison08_m01</Cell>
+        <Cell>Tournament caparison decorated</Cell>
+        <Cell>Schabracke - Turnier verziert</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_noblecaparison_twitch</Cell>
+        <Cell>Warhorse tournament caparison</Cell>
+        <Cell>Schabracke - Schlachtross für Turniere</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_paddedcaparison01_m01</Cell>
+        <Cell>Tournament caparison quilted</Cell>
+        <Cell>Schabracke - Turnier gesteppt</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_paddedcaparison02_m01</Cell>
+        <Cell>Executioner's caparison quilted</Cell>
+        <Cell>Schabracke - Henker gesteppt</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_paddedcaparison03_m01</Cell>
+        <Cell>Quilted caparison with harness</Cell>
+        <Cell>Schabracke - Geschirr gesteppt</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_paddedcaparison04_m01</Cell>
+        <Cell>Quilted caparison with harness</Cell>
+        <Cell>Schabracke - Geschirr gesteppt</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_paddedcaparison05_m01</Cell>
+        <Cell>Quilted caparison with harness</Cell>
+        <Cell>Schabracke - Geschirr gesteppt</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ztracenaCest_jezeksCaparison</Cell>
+        <Cell>Lords of Holohlavy caparison</Cell>
+        <Cell>Schabracke - Herr von Holohlavy</Cell>
+    </Row>
+
 
 	<!-- ######################### -->
 	<!-- ## Reparatursets  	    ## -->
