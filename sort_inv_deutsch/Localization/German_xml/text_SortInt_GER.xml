@@ -2908,6 +2908,16 @@
 		<Cell>Hand wrap</Cell>
 		<Cell>Arme I - Bandage</Cell>
 	</Row>
+    <Row>
+        <Cell>ui_nm_rasuvUcen_knackersGloves</Cell>
+        <Cell>Knacker's gloves</Cell>
+        <Cell>Arme I - Handschuhe des Schinders</Cell>
+    </Row>
+    <Row>
+        <Cell>ui_nm_ztracenaCest_jezeksGauntlets</Cell>
+        <Cell>Jezhek's gloves</Cell>
+        <Cell>Arme I - Jescheks Handschuhe</Cell>
+    </Row>	
 
 	<Row>
 		<Cell>ui_nm_armplate01_m01</Cell>
